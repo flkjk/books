@@ -1,0 +1,25 @@
+name: Zip EPUBs
+on: push
+jobs:
+  epub-zip:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: zip
+        run: |
+          git symbolic-ref HEAD refs/heads/zip
+          git reset
+          find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && zip -r ../english.epub * && cd .. && rm -rf english" \;
+          rm -rf .github book_information.json LICENSE README.md
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: commit
+        run: |
+          git add --all
+          git commit -m "automated: zipping into .epub"
+          git push --force --set-upstream origin zip

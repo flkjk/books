@@ -1,0 +1,7118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta name="dtb:uid" content="epubmerge-uid-1653256683"/>
+      <meta name="dtb:depth" content="5"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>War and Peace</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="book000" playOrder="1">
+         <navLabel>
+            <text>Том 4. Война и мир</text>
+         </navLabel>
+         <content src="1/OEBPS/cover.xhtml"/>
+         <navPoint id="a1NavPoint-1" playOrder="2">
+            
+      
+            <navLabel>
+               
+        
+               <text>Война и мир. Том 1</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/section2.xhtml"/>
+            
+      
+            <navPoint id="a1NavPoint-2" playOrder="3">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть первая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/section3.xhtml"/>
+               
+        
+               <navPoint id="a1NavPoint-3" playOrder="4">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section4.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-4" playOrder="5">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section5.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-5" playOrder="6">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section6.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-6" playOrder="7">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section7.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-7" playOrder="8">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section8.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-8" playOrder="9">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section9.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-9" playOrder="10">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section10.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-10" playOrder="11">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section11.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-11" playOrder="12">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section12.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-12" playOrder="13">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section13.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-13" playOrder="14">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section14.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-14" playOrder="15">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section15.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-15" playOrder="16">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section16.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-16" playOrder="17">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section17.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-17" playOrder="18">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section18.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-18" playOrder="19">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section19.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-19" playOrder="20">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section20.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-20" playOrder="21">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section21.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-21" playOrder="22">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section22.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-22" playOrder="23">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section23.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-23" playOrder="24">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section24.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-24" playOrder="25">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section25.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-25" playOrder="26">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section26.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-26" playOrder="27">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section27.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-27" playOrder="28">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section28.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a1NavPoint-28" playOrder="29">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть вторая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/section29.xhtml"/>
+               
+        
+               <navPoint id="a1NavPoint-29" playOrder="30">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section30.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-30" playOrder="31">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section31.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-31" playOrder="32">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section32.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-32" playOrder="33">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section33.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-33" playOrder="34">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section34.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-34" playOrder="35">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section35.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-35" playOrder="36">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section36.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-36" playOrder="37">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section37.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-37" playOrder="38">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section38.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-38" playOrder="39">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section39.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-39" playOrder="40">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section40.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-40" playOrder="41">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section41.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-41" playOrder="42">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section42.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-42" playOrder="43">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section43.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-43" playOrder="44">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section44.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-44" playOrder="45">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section45.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-45" playOrder="46">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section46.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-46" playOrder="47">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section47.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-47" playOrder="48">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section48.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-48" playOrder="49">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section49.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-49" playOrder="50">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section50.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a1NavPoint-50" playOrder="51">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть третья</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/section51.xhtml"/>
+               
+        
+               <navPoint id="a1NavPoint-51" playOrder="52">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section52.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-52" playOrder="53">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section53.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-53" playOrder="54">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section54.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-54" playOrder="55">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section55.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-55" playOrder="56">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section56.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-56" playOrder="57">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section57.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-57" playOrder="58">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section58.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-58" playOrder="59">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section59.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-59" playOrder="60">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section60.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-60" playOrder="61">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section61.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-61" playOrder="62">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section62.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-62" playOrder="63">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section63.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-63" playOrder="64">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section64.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-64" playOrder="65">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section65.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-65" playOrder="66">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section66.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-66" playOrder="67">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section67.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-67" playOrder="68">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section68.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-68" playOrder="69">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section69.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a1NavPoint-69" playOrder="70">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="1/OEBPS/section70.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book001" playOrder="71">
+         <navLabel>
+            <text>Том 5. Война и мир</text>
+         </navLabel>
+         <content src="2/OEBPS/cover.xhtml"/>
+         <navPoint id="a2NavPoint-1" playOrder="72">
+            
+      
+            <navLabel>
+               
+        
+               <text>Война и мир. Том 2</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/section2.xhtml"/>
+            
+      
+            <navPoint id="a2NavPoint-2" playOrder="73">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть первая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/section3.xhtml"/>
+               
+        
+               <navPoint id="a2NavPoint-3" playOrder="74">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section4.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-4" playOrder="75">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section5.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-5" playOrder="76">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section6.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-6" playOrder="77">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section7.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-7" playOrder="78">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section8.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-8" playOrder="79">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section9.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-9" playOrder="80">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section10.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-10" playOrder="81">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section11.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-11" playOrder="82">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section12.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-12" playOrder="83">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section13.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-13" playOrder="84">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section14.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-14" playOrder="85">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section15.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-15" playOrder="86">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section16.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-16" playOrder="87">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section17.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-17" playOrder="88">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section18.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-18" playOrder="89">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section19.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2NavPoint-19" playOrder="90">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть вторая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/section20.xhtml"/>
+               
+        
+               <navPoint id="a2NavPoint-20" playOrder="91">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section21.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-21" playOrder="92">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section22.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-22" playOrder="93">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section23.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-23" playOrder="94">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section24.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-24" playOrder="95">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section25.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-25" playOrder="96">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section26.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-26" playOrder="97">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section27.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-27" playOrder="98">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section28.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-28" playOrder="99">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section29.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-29" playOrder="100">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section30.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-30" playOrder="101">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section31.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-31" playOrder="102">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section32.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-32" playOrder="103">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section33.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-33" playOrder="104">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section34.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-34" playOrder="105">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section35.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-35" playOrder="106">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section36.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-36" playOrder="107">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section37.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-37" playOrder="108">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section38.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-38" playOrder="109">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section39.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-39" playOrder="110">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section40.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-40" playOrder="111">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section41.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2NavPoint-41" playOrder="112">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть третья</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/section42.xhtml"/>
+               
+        
+               <navPoint id="a2NavPoint-42" playOrder="113">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section43.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-43" playOrder="114">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section44.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-44" playOrder="115">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section45.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-45" playOrder="116">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section46.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-46" playOrder="117">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section47.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-47" playOrder="118">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section48.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-48" playOrder="119">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section49.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-49" playOrder="120">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section50.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-50" playOrder="121">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section51.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-51" playOrder="122">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section52.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-52" playOrder="123">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section53.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-53" playOrder="124">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section54.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-54" playOrder="125">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section55.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-55" playOrder="126">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section56.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-56" playOrder="127">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section57.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-57" playOrder="128">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section58.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-58" playOrder="129">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section59.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-59" playOrder="130">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section60.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-60" playOrder="131">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section61.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-61" playOrder="132">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section62.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-62" playOrder="133">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section63.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-63" playOrder="134">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section64.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-64" playOrder="135">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section65.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-65" playOrder="136">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section66.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-66" playOrder="137">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section67.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-67" playOrder="138">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section68.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2NavPoint-68" playOrder="139">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть четвертая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/section69.xhtml"/>
+               
+        
+               <navPoint id="a2NavPoint-69" playOrder="140">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section70.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-70" playOrder="141">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section71.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-71" playOrder="142">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section72.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-72" playOrder="143">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section73.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-73" playOrder="144">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section74.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-74" playOrder="145">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section75.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-75" playOrder="146">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section76.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-76" playOrder="147">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section77.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-77" playOrder="148">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section78.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-78" playOrder="149">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section79.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-79" playOrder="150">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section80.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-80" playOrder="151">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section81.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-81" playOrder="152">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section82.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2NavPoint-82" playOrder="153">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть пятая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/section83.xhtml"/>
+               
+        
+               <navPoint id="a2NavPoint-83" playOrder="154">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section84.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-84" playOrder="155">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section85.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-85" playOrder="156">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section86.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-86" playOrder="157">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section87.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-87" playOrder="158">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section88.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-88" playOrder="159">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section89.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-89" playOrder="160">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section90.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-90" playOrder="161">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section91.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-91" playOrder="162">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section92.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-92" playOrder="163">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section93.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-93" playOrder="164">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section94.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-94" playOrder="165">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section95.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-95" playOrder="166">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section96.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-96" playOrder="167">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section97.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-97" playOrder="168">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section98.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-98" playOrder="169">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section99.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-99" playOrder="170">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section100.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-100" playOrder="171">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section101.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-101" playOrder="172">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section102.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-102" playOrder="173">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section103.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-103" playOrder="174">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section104.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a2NavPoint-104" playOrder="175">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="2/OEBPS/section105.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book002" playOrder="176">
+         <navLabel>
+            <text>Том 6. Война и мир</text>
+         </navLabel>
+         <content src="3/OEBPS/cover.xhtml"/>
+         <navPoint id="a3NavPoint-1" playOrder="177">
+            
+      
+            <navLabel>
+               
+        
+               <text>Война и мир. Том 3</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/section2.xhtml"/>
+            
+      
+            <navPoint id="a3NavPoint-2" playOrder="178">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть первая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/section3.xhtml"/>
+               
+        
+               <navPoint id="a3NavPoint-3" playOrder="179">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section4.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-4" playOrder="180">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section5.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-5" playOrder="181">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section6.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-6" playOrder="182">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section7.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-7" playOrder="183">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section8.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-8" playOrder="184">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section9.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-9" playOrder="185">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section10.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-10" playOrder="186">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section11.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-11" playOrder="187">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section12.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-12" playOrder="188">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section13.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-13" playOrder="189">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section14.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-14" playOrder="190">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section15.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-15" playOrder="191">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section16.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-16" playOrder="192">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section17.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-17" playOrder="193">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section18.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-18" playOrder="194">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section19.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-19" playOrder="195">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section20.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-20" playOrder="196">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section21.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-21" playOrder="197">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section22.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-22" playOrder="198">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section23.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-23" playOrder="199">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section24.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-24" playOrder="200">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section25.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-25" playOrder="201">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section26.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3NavPoint-26" playOrder="202">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть вторая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/section27.xhtml"/>
+               
+        
+               <navPoint id="a3NavPoint-27" playOrder="203">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section28.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-28" playOrder="204">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section29.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-29" playOrder="205">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section30.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-30" playOrder="206">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section31.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-31" playOrder="207">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section32.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-32" playOrder="208">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section33.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-33" playOrder="209">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section34.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-34" playOrder="210">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section35.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-35" playOrder="211">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section36.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-36" playOrder="212">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section37.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-37" playOrder="213">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section38.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-38" playOrder="214">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section39.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-39" playOrder="215">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section40.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-40" playOrder="216">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section41.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-41" playOrder="217">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section42.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-42" playOrder="218">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section43.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-43" playOrder="219">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section44.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-44" playOrder="220">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section45.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-45" playOrder="221">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section46.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-46" playOrder="222">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section47.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-47" playOrder="223">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section48.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-48" playOrder="224">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section49.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-49" playOrder="225">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section50.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-50" playOrder="226">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section51.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-51" playOrder="227">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section52.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-52" playOrder="228">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section53.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-53" playOrder="229">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section54.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-54" playOrder="230">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section55.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-55" playOrder="231">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section56.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-56" playOrder="232">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section57.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-57" playOrder="233">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section58.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-58" playOrder="234">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section59.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-59" playOrder="235">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section60.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-60" playOrder="236">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section61.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-61" playOrder="237">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section62.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-62" playOrder="238">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section63.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-63" playOrder="239">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section64.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-64" playOrder="240">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section65.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-65" playOrder="241">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section66.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3NavPoint-66" playOrder="242">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть третья</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/section67.xhtml"/>
+               
+        
+               <navPoint id="a3NavPoint-67" playOrder="243">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section68.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-68" playOrder="244">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section69.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-69" playOrder="245">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section70.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-70" playOrder="246">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section71.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-71" playOrder="247">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section72.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-72" playOrder="248">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section73.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-73" playOrder="249">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section74.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-74" playOrder="250">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section75.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-75" playOrder="251">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section76.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-76" playOrder="252">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section77.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-77" playOrder="253">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section78.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-78" playOrder="254">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section79.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-79" playOrder="255">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section80.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-80" playOrder="256">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section81.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-81" playOrder="257">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section82.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-82" playOrder="258">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section83.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-83" playOrder="259">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section84.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-84" playOrder="260">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section85.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-85" playOrder="261">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section86.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-86" playOrder="262">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section87.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-87" playOrder="263">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section88.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-88" playOrder="264">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section89.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-89" playOrder="265">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section90.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-90" playOrder="266">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section91.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-91" playOrder="267">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section92.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-92" playOrder="268">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section93.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-93" playOrder="269">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section94.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-94" playOrder="270">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section95.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-95" playOrder="271">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section96.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-96" playOrder="272">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section97.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-97" playOrder="273">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section98.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-98" playOrder="274">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section99.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-99" playOrder="275">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section100.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a3NavPoint-100" playOrder="276">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XXXIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="3/OEBPS/section101.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book003" playOrder="277">
+         <navLabel>
+            <text>Том 7. Война и мир</text>
+         </navLabel>
+         <content src="4/OEBPS/cover.xhtml"/>
+         <navPoint id="a4NavPoint-1" playOrder="278">
+            
+      
+            <navLabel>
+               
+        
+               <text>Война и мир. Том 4</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/section2.xhtml"/>
+            
+      
+            <navPoint id="a4NavPoint-2" playOrder="279">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть первая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section3.xhtml"/>
+               
+        
+               <navPoint id="a4NavPoint-3" playOrder="280">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section4.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-4" playOrder="281">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section5.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-5" playOrder="282">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section6.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-6" playOrder="283">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section7.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-7" playOrder="284">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section8.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-8" playOrder="285">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section9.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-9" playOrder="286">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section10.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-10" playOrder="287">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section11.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-11" playOrder="288">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section12.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-12" playOrder="289">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section13.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-13" playOrder="290">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section14.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-14" playOrder="291">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section15.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-15" playOrder="292">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section16.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-16" playOrder="293">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section17.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-17" playOrder="294">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section18.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-18" playOrder="295">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section19.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-19" playOrder="296">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть вторая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section20.xhtml"/>
+               
+        
+               <navPoint id="a4NavPoint-20" playOrder="297">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section21.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-21" playOrder="298">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section22.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-22" playOrder="299">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section23.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-23" playOrder="300">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section24.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-24" playOrder="301">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section25.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-25" playOrder="302">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section26.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-26" playOrder="303">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section27.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-27" playOrder="304">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section28.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-28" playOrder="305">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section29.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-29" playOrder="306">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section30.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-30" playOrder="307">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section31.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-31" playOrder="308">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section32.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-32" playOrder="309">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section33.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-33" playOrder="310">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section34.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-34" playOrder="311">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section35.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-35" playOrder="312">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section36.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-36" playOrder="313">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section37.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-37" playOrder="314">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section38.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-38" playOrder="315">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section39.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-39" playOrder="316">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть третья</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section40.xhtml"/>
+               
+        
+               <navPoint id="a4NavPoint-40" playOrder="317">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section41.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-41" playOrder="318">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section42.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-42" playOrder="319">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section43.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-43" playOrder="320">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section44.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-44" playOrder="321">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section45.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-45" playOrder="322">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section46.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-46" playOrder="323">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section47.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-47" playOrder="324">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section48.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-48" playOrder="325">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section49.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-49" playOrder="326">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section50.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-50" playOrder="327">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section51.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-51" playOrder="328">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section52.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-52" playOrder="329">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section53.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-53" playOrder="330">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section54.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-54" playOrder="331">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section55.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-55" playOrder="332">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section56.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-56" playOrder="333">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section57.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-57" playOrder="334">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section58.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-58" playOrder="335">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section59.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-59" playOrder="336">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Часть четвертая</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section60.xhtml"/>
+               
+        
+               <navPoint id="a4NavPoint-60" playOrder="337">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>I</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section61.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-61" playOrder="338">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>II</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section62.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-62" playOrder="339">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>III</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section63.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-63" playOrder="340">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section64.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-64" playOrder="341">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>V</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section65.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-65" playOrder="342">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section66.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-66" playOrder="343">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section67.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-67" playOrder="344">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>VIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section68.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-68" playOrder="345">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>IX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section69.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-69" playOrder="346">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>X</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section70.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-70" playOrder="347">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section71.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-71" playOrder="348">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section72.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-72" playOrder="349">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section73.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-73" playOrder="350">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section74.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-74" playOrder="351">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XV</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section75.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-75" playOrder="352">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVI</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section76.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-76" playOrder="353">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section77.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-77" playOrder="354">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XVIII</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section78.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-78" playOrder="355">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XIX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section79.xhtml"/>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-79" playOrder="356">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>XX</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section80.xhtml"/>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-80" playOrder="357">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Эпилог</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section81.xhtml"/>
+               
+        
+               <navPoint id="a4NavPoint-81" playOrder="358">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>Часть первая</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section82.xhtml"/>
+                  
+          
+                  <navPoint id="a4NavPoint-82" playOrder="359">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>I</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section83.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-83" playOrder="360">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>II</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section84.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-84" playOrder="361">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>III</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section85.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-85" playOrder="362">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>IV</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section86.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-86" playOrder="363">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>V</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section87.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-87" playOrder="364">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VI</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section88.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-88" playOrder="365">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section89.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-89" playOrder="366">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VIII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section90.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-90" playOrder="367">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>IX</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section91.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-91" playOrder="368">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>X</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section92.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-92" playOrder="369">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XI</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section93.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-93" playOrder="370">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section94.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-94" playOrder="371">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XIII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section95.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-95" playOrder="372">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XIV</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section96.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-96" playOrder="373">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XV</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section97.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-97" playOrder="374">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XVI</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section98.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+        
+               </navPoint>
+               
+        
+               <navPoint id="a4NavPoint-98" playOrder="375">
+                  
+          
+                  <navLabel>
+                     
+            
+                     <text>Часть вторая</text>
+                     
+          
+                  </navLabel>
+                  
+          
+                  <content src="4/OEBPS/section99.xhtml"/>
+                  
+          
+                  <navPoint id="a4NavPoint-99" playOrder="376">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>I</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section100.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-100" playOrder="377">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>II</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section101.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-101" playOrder="378">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>III</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section102.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-102" playOrder="379">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>IV</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section103.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-103" playOrder="380">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>V</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section104.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-104" playOrder="381">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VI</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section105.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-105" playOrder="382">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section106.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-106" playOrder="383">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>VIII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section107.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-107" playOrder="384">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>IX</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section108.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-108" playOrder="385">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>X</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section109.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-109" playOrder="386">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XI</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section110.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+          
+                  <navPoint id="a4NavPoint-110" playOrder="387">
+                     
+            
+                     <navLabel>
+                        
+              
+                        <text>XII</text>
+                        
+            
+                     </navLabel>
+                     
+            
+                     <content src="4/OEBPS/section111.xhtml"/>
+                     
+          
+                  </navPoint>
+                  
+        
+               </navPoint>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4NavPoint-111" playOrder="388">
+            
+      
+            <navLabel>
+               
+        
+               <text>Несколько слов по поводу книги «Война и мир»</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/section112.xhtml"/>
+            
+    
+         </navPoint>
+         <navPoint id="a4NavPoint-112" playOrder="389">
+            
+      
+            <navLabel>
+               
+        
+               <text>Комментарии</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/section113.xhtml"/>
+            
+      
+            <navPoint id="a4NavPoint-113" playOrder="390">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>1</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section115.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-114" playOrder="391">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>2</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section116.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-115" playOrder="392">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>3</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section117.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-116" playOrder="393">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>4</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section118.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-117" playOrder="394">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>5</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section119.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-118" playOrder="395">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>6</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section120.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-119" playOrder="396">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>7</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section121.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-120" playOrder="397">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>8</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section122.xhtml"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4NavPoint-121" playOrder="398">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>9</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/section123.xhtml"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

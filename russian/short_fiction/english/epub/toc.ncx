@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>A Living Chattel</text>
+			</navLabel>
+			<content src="text/a-living-chattel.xhtml"/>
+			<navPoint id="navpoint-4" playOrder="4">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/a-living-chattel.xhtml#a-living-chattel-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-5" playOrder="5">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/a-living-chattel.xhtml#a-living-chattel-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-6" playOrder="6">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/a-living-chattel.xhtml#a-living-chattel-chapter-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-7" playOrder="7">
+			<navLabel>
+				<text>Joy</text>
+			</navLabel>
+			<content src="text/joy.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-8" playOrder="8">
+			<navLabel>
+				<text>At the Barber’s</text>
+			</navLabel>
+			<content src="text/at-the-barbers.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-9" playOrder="9">
+			<navLabel>
+				<text>An Enigmatic Nature</text>
+			</navLabel>
+			<content src="text/an-enigmatic-nature.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-10" playOrder="10">
+			<navLabel>
+				<text>A Classical Student</text>
+			</navLabel>
+			<content src="text/a-classical-student.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-11" playOrder="11">
+			<navLabel>
+				<text>The Death of a Government Clerk</text>
+			</navLabel>
+			<content src="text/the-death-of-a-government-clerk.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-12" playOrder="12">
+			<navLabel>
+				<text>A Daughter of Albion</text>
+			</navLabel>
+			<content src="text/a-daughter-of-albion.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-13" playOrder="13">
+			<navLabel>
+				<text>The Trousseau</text>
+			</navLabel>
+			<content src="text/the-trousseau.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-14" playOrder="14">
+			<navLabel>
+				<text>An Inquiry</text>
+			</navLabel>
+			<content src="text/an-inquiry.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-15" playOrder="15">
+			<navLabel>
+				<text>Fat and Thin</text>
+			</navLabel>
+			<content src="text/fat-and-thin.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-16" playOrder="16">
+			<navLabel>
+				<text>A Tragic Actor</text>
+			</navLabel>
+			<content src="text/a-tragic-actor.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-17" playOrder="17">
+			<navLabel>
+				<text>A Slander</text>
+			</navLabel>
+			<content src="text/a-slander.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-18" playOrder="18">
+			<navLabel>
+				<text>The Bird Market</text>
+			</navLabel>
+			<content src="text/the-bird-market.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-19" playOrder="19">
+			<navLabel>
+				<text>Choristers</text>
+			</navLabel>
+			<content src="text/choristers.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-20" playOrder="20">
+			<navLabel>
+				<text>The Album</text>
+			</navLabel>
+			<content src="text/the-album.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-21" playOrder="21">
+			<navLabel>
+				<text>Minds in Ferment</text>
+			</navLabel>
+			<content src="text/minds-in-ferment.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-22" playOrder="22">
+			<navLabel>
+				<text>A Chameleon</text>
+			</navLabel>
+			<content src="text/a-chameleon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-23" playOrder="23">
+			<navLabel>
+				<text>In the Graveyard</text>
+			</navLabel>
+			<content src="text/in-the-graveyard.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-24" playOrder="24">
+			<navLabel>
+				<text>Oysters</text>
+			</navLabel>
+			<content src="text/oysters.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-25" playOrder="25">
+			<navLabel>
+				<text>The Swedish Match</text>
+			</navLabel>
+			<content src="text/the-swedish-match.xhtml"/>
+			<navPoint id="navpoint-26" playOrder="26">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-swedish-match.xhtml#the-swedish-match-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-27" playOrder="27">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-swedish-match.xhtml#the-swedish-match-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-28" playOrder="28">
+			<navLabel>
+				<text>The Marshal’s Widow</text>
+			</navLabel>
+			<content src="text/the-marshals-widow.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-29" playOrder="29">
+			<navLabel>
+				<text>Small Fry</text>
+			</navLabel>
+			<content src="text/small-fry.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-30" playOrder="30">
+			<navLabel>
+				<text>In an Hotel</text>
+			</navLabel>
+			<content src="text/in-an-hotel.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-31" playOrder="31">
+			<navLabel>
+				<text>Boots</text>
+			</navLabel>
+			<content src="text/boots.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-32" playOrder="32">
+			<navLabel>
+				<text>Nerves</text>
+			</navLabel>
+			<content src="text/nerves.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-33" playOrder="33">
+			<navLabel>
+				<text>A Country Cottage</text>
+			</navLabel>
+			<content src="text/a-country-cottage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-34" playOrder="34">
+			<navLabel>
+				<text>Malingerers</text>
+			</navLabel>
+			<content src="text/malingerers.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-35" playOrder="35">
+			<navLabel>
+				<text>The Fish</text>
+			</navLabel>
+			<content src="text/the-fish.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-36" playOrder="36">
+			<navLabel>
+				<text>Gone Astray</text>
+			</navLabel>
+			<content src="text/gone-astray.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-37" playOrder="37">
+			<navLabel>
+				<text>The Huntsman</text>
+			</navLabel>
+			<content src="text/the-huntsman.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-38" playOrder="38">
+			<navLabel>
+				<text>A Malefactor</text>
+			</navLabel>
+			<content src="text/a-malefactor.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-39" playOrder="39">
+			<navLabel>
+				<text>A Dead Body</text>
+			</navLabel>
+			<content src="text/a-dead-body.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-40" playOrder="40">
+			<navLabel>
+				<text>The Cook’s Wedding</text>
+			</navLabel>
+			<content src="text/the-cooks-wedding.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-41" playOrder="41">
+			<navLabel>
+				<text>In a Strange Land</text>
+			</navLabel>
+			<content src="text/in-a-strange-land.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-42" playOrder="42">
+			<navLabel>
+				<text>Overdoing It</text>
+			</navLabel>
+			<content src="text/overdoing-it.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-43" playOrder="43">
+			<navLabel>
+				<text>Old Age</text>
+			</navLabel>
+			<content src="text/old-age.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-44" playOrder="44">
+			<navLabel>
+				<text>Sorrow</text>
+			</navLabel>
+			<content src="text/sorrow.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-45" playOrder="45">
+			<navLabel>
+				<text>Oh! The Public</text>
+			</navLabel>
+			<content src="text/oh-the-public.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-46" playOrder="46">
+			<navLabel>
+				<text>Mari d’Elle</text>
+			</navLabel>
+			<content src="text/mari-delle.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-47" playOrder="47">
+			<navLabel>
+				<text>The Looking-Glass</text>
+			</navLabel>
+			<content src="text/the-looking-glass.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-48" playOrder="48">
+			<navLabel>
+				<text>Art</text>
+			</navLabel>
+			<content src="text/art.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-49" playOrder="49">
+			<navLabel>
+				<text>A Blunder</text>
+			</navLabel>
+			<content src="text/a-blunder.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-50" playOrder="50">
+			<navLabel>
+				<text>Children</text>
+			</navLabel>
+			<content src="text/children.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-51" playOrder="51">
+			<navLabel>
+				<text>Misery</text>
+			</navLabel>
+			<content src="text/misery.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-52" playOrder="52">
+			<navLabel>
+				<text>An Actor’s End</text>
+			</navLabel>
+			<content src="text/an-actors-end.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-53" playOrder="53">
+			<navLabel>
+				<text>The Requiem</text>
+			</navLabel>
+			<content src="text/the-requiem.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-54" playOrder="54">
+			<navLabel>
+				<text>Anyuta</text>
+			</navLabel>
+			<content src="text/anyuta.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-55" playOrder="55">
+			<navLabel>
+				<text>Ivan Matveyitch</text>
+			</navLabel>
+			<content src="text/ivan-matveyitch.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-56" playOrder="56">
+			<navLabel>
+				<text>The Witch</text>
+			</navLabel>
+			<content src="text/the-witch.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-57" playOrder="57">
+			<navLabel>
+				<text>A Story Without an End</text>
+			</navLabel>
+			<content src="text/a-story-without-an-end.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-58" playOrder="58">
+			<navLabel>
+				<text>A Joke</text>
+			</navLabel>
+			<content src="text/a-joke.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-59" playOrder="59">
+			<navLabel>
+				<text>Agafya</text>
+			</navLabel>
+			<content src="text/agafya.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-60" playOrder="60">
+			<navLabel>
+				<text>A Nightmare</text>
+			</navLabel>
+			<content src="text/a-nightmare.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-61" playOrder="61">
+			<navLabel>
+				<text>Grisha</text>
+			</navLabel>
+			<content src="text/grisha.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-62" playOrder="62">
+			<navLabel>
+				<text>Love</text>
+			</navLabel>
+			<content src="text/love.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-63" playOrder="63">
+			<navLabel>
+				<text>Easter Eve</text>
+			</navLabel>
+			<content src="text/easter-eve.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-64" playOrder="64">
+			<navLabel>
+				<text>Ladies</text>
+			</navLabel>
+			<content src="text/ladies.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-65" playOrder="65">
+			<navLabel>
+				<text>Strong Impressions</text>
+			</navLabel>
+			<content src="text/strong-impressions.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-66" playOrder="66">
+			<navLabel>
+				<text>A Gentleman Friend</text>
+			</navLabel>
+			<content src="text/a-gentleman-friend.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-67" playOrder="67">
+			<navLabel>
+				<text>A Happy Man</text>
+			</navLabel>
+			<content src="text/a-happy-man.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-68" playOrder="68">
+			<navLabel>
+				<text>The Privy Councillor</text>
+			</navLabel>
+			<content src="text/the-privy-councillor.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-69" playOrder="69">
+			<navLabel>
+				<text>A Day in the Country</text>
+			</navLabel>
+			<content src="text/a-day-in-the-country.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-70" playOrder="70">
+			<navLabel>
+				<text>At a Summer Villa</text>
+			</navLabel>
+			<content src="text/at-a-summer-villa.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-71" playOrder="71">
+			<navLabel>
+				<text>Panic Fears</text>
+			</navLabel>
+			<content src="text/panic-fears.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-72" playOrder="72">
+			<navLabel>
+				<text>The Chemist’s Wife</text>
+			</navLabel>
+			<content src="text/the-chemists-wife.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-73" playOrder="73">
+			<navLabel>
+				<text>Not Wanted</text>
+			</navLabel>
+			<content src="text/not-wanted.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-74" playOrder="74">
+			<navLabel>
+				<text>The Chorus Girl</text>
+			</navLabel>
+			<content src="text/the-chorus-girl.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-75" playOrder="75">
+			<navLabel>
+				<text>The Schoolmaster</text>
+			</navLabel>
+			<content src="text/the-schoolmaster.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-76" playOrder="76">
+			<navLabel>
+				<text>A Troublesome Visitor</text>
+			</navLabel>
+			<content src="text/a-troublesome-visitor.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-77" playOrder="77">
+			<navLabel>
+				<text>A Misfortune</text>
+			</navLabel>
+			<content src="text/a-misfortune.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-78" playOrder="78">
+			<navLabel>
+				<text>A Pink Stocking</text>
+			</navLabel>
+			<content src="text/a-pink-stocking.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-79" playOrder="79">
+			<navLabel>
+				<text>Martyrs</text>
+			</navLabel>
+			<content src="text/martyrs.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-80" playOrder="80">
+			<navLabel>
+				<text>The First-Class Passenger</text>
+			</navLabel>
+			<content src="text/the-first-class-passenger.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-81" playOrder="81">
+			<navLabel>
+				<text>Talent</text>
+			</navLabel>
+			<content src="text/talent.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-82" playOrder="82">
+			<navLabel>
+				<text>The Dependents</text>
+			</navLabel>
+			<content src="text/the-dependents.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-83" playOrder="83">
+			<navLabel>
+				<text>The Jeune Premier</text>
+			</navLabel>
+			<content src="text/the-jeune-premier.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-84" playOrder="84">
+			<navLabel>
+				<text>In the Dark</text>
+			</navLabel>
+			<content src="text/in-the-dark.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-85" playOrder="85">
+			<navLabel>
+				<text>A Trivial Incident</text>
+			</navLabel>
+			<content src="text/a-trivial-incident.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-86" playOrder="86">
+			<navLabel>
+				<text>A Tripping Tongue</text>
+			</navLabel>
+			<content src="text/a-tripping-tongue.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-87" playOrder="87">
+			<navLabel>
+				<text>A Trifle from Life</text>
+			</navLabel>
+			<content src="text/a-trifle-from-life.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-88" playOrder="88">
+			<navLabel>
+				<text>Difficult People</text>
+			</navLabel>
+			<content src="text/difficult-people.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-89" playOrder="89">
+			<navLabel>
+				<text>In the Court</text>
+			</navLabel>
+			<content src="text/in-the-court.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-90" playOrder="90">
+			<navLabel>
+				<text>A Peculiar Man</text>
+			</navLabel>
+			<content src="text/a-peculiar-man.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-91" playOrder="91">
+			<navLabel>
+				<text>Mire</text>
+			</navLabel>
+			<content src="text/mire.xhtml"/>
+			<navPoint id="navpoint-92" playOrder="92">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/mire.xhtml#mire-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-93" playOrder="93">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/mire.xhtml#mire-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-94" playOrder="94">
+			<navLabel>
+				<text>Dreams</text>
+			</navLabel>
+			<content src="text/dreams.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-95" playOrder="95">
+			<navLabel>
+				<text>Hush!</text>
+			</navLabel>
+			<content src="text/hush.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-96" playOrder="96">
+			<navLabel>
+				<text>Excellent People</text>
+			</navLabel>
+			<content src="text/excellent-people.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-97" playOrder="97">
+			<navLabel>
+				<text>An Incident</text>
+			</navLabel>
+			<content src="text/an-incident.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-98" playOrder="98">
+			<navLabel>
+				<text>The Orator</text>
+			</navLabel>
+			<content src="text/the-orator.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-99" playOrder="99">
+			<navLabel>
+				<text>A Work of Art</text>
+			</navLabel>
+			<content src="text/a-work-of-art.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-100" playOrder="100">
+			<navLabel>
+				<text>Who Was to Blame?</text>
+			</navLabel>
+			<content src="text/who-was-to-blame.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-101" playOrder="101">
+			<navLabel>
+				<text>On the Road</text>
+			</navLabel>
+			<content src="text/on-the-road.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-102" playOrder="102">
+			<navLabel>
+				<text>Vanka</text>
+			</navLabel>
+			<content src="text/vanka.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-103" playOrder="103">
+			<navLabel>
+				<text>Champagne</text>
+			</navLabel>
+			<content src="text/champagne.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-104" playOrder="104">
+			<navLabel>
+				<text>Frost</text>
+			</navLabel>
+			<content src="text/frost.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-105" playOrder="105">
+			<navLabel>
+				<text>The Beggar</text>
+			</navLabel>
+			<content src="text/the-beggar.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-106" playOrder="106">
+			<navLabel>
+				<text>Enemies</text>
+			</navLabel>
+			<content src="text/enemies.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-107" playOrder="107">
+			<navLabel>
+				<text>Darkness</text>
+			</navLabel>
+			<content src="text/darkness.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-108" playOrder="108">
+			<navLabel>
+				<text>Polinka</text>
+			</navLabel>
+			<content src="text/polinka.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-109" playOrder="109">
+			<navLabel>
+				<text>Drunk</text>
+			</navLabel>
+			<content src="text/drunk.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-110" playOrder="110">
+			<navLabel>
+				<text>An Inadvertence</text>
+			</navLabel>
+			<content src="text/an-inadvertence.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-111" playOrder="111">
+			<navLabel>
+				<text>Verotchka</text>
+			</navLabel>
+			<content src="text/verotchka.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-112" playOrder="112">
+			<navLabel>
+				<text>Shrove Tuesday</text>
+			</navLabel>
+			<content src="text/shrove-tuesday.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-113" playOrder="113">
+			<navLabel>
+				<text>A Defenceless Creature</text>
+			</navLabel>
+			<content src="text/a-defenceless-creature.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-114" playOrder="114">
+			<navLabel>
+				<text>A Bad Business</text>
+			</navLabel>
+			<content src="text/a-bad-business.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-115" playOrder="115">
+			<navLabel>
+				<text>Home</text>
+			</navLabel>
+			<content src="text/home.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-116" playOrder="116">
+			<navLabel>
+				<text>The Lottery Ticket</text>
+			</navLabel>
+			<content src="text/the-lottery-ticket.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-117" playOrder="117">
+			<navLabel>
+				<text>Too Early!</text>
+			</navLabel>
+			<content src="text/too-early.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-118" playOrder="118">
+			<navLabel>
+				<text>Typhus</text>
+			</navLabel>
+			<content src="text/typhus.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-119" playOrder="119">
+			<navLabel>
+				<text>In Passion Week</text>
+			</navLabel>
+			<content src="text/in-passion-week.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-120" playOrder="120">
+			<navLabel>
+				<text>A Mystery</text>
+			</navLabel>
+			<content src="text/a-mystery.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-121" playOrder="121">
+			<navLabel>
+				<text>The Cossack</text>
+			</navLabel>
+			<content src="text/the-cossack.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-122" playOrder="122">
+			<navLabel>
+				<text>The Letter</text>
+			</navLabel>
+			<content src="text/the-letter.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-123" playOrder="123">
+			<navLabel>
+				<text>An Adventure</text>
+			</navLabel>
+			<content src="text/an-adventure.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-124" playOrder="124">
+			<navLabel>
+				<text>The Examining Magistrate</text>
+			</navLabel>
+			<content src="text/the-examining-magistrate.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-125" playOrder="125">
+			<navLabel>
+				<text>Aborigines</text>
+			</navLabel>
+			<content src="text/aborigines.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-126" playOrder="126">
+			<navLabel>
+				<text>Happiness</text>
+			</navLabel>
+			<content src="text/happiness.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-127" playOrder="127">
+			<navLabel>
+				<text>Bad Weather</text>
+			</navLabel>
+			<content src="text/bad-weather.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-128" playOrder="128">
+			<navLabel>
+				<text>A Play</text>
+			</navLabel>
+			<content src="text/a-play.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-129" playOrder="129">
+			<navLabel>
+				<text>A Transgression</text>
+			</navLabel>
+			<content src="text/a-transgression.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-130" playOrder="130">
+			<navLabel>
+				<text>From the Diary of a Violent-Tempered Man</text>
+			</navLabel>
+			<content src="text/from-the-diary-of-a-violent-tempered-man.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-131" playOrder="131">
+			<navLabel>
+				<text>Uprooted</text>
+			</navLabel>
+			<content src="text/uprooted.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-132" playOrder="132">
+			<navLabel>
+				<text>A Father</text>
+			</navLabel>
+			<content src="text/a-father.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-133" playOrder="133">
+			<navLabel>
+				<text>A Happy Ending</text>
+			</navLabel>
+			<content src="text/a-happy-ending.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-134" playOrder="134">
+			<navLabel>
+				<text>In the Coach-House</text>
+			</navLabel>
+			<content src="text/in-the-coach-house.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-135" playOrder="135">
+			<navLabel>
+				<text>Zinotchka</text>
+			</navLabel>
+			<content src="text/zinotchka.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-136" playOrder="136">
+			<navLabel>
+				<text>The Doctor</text>
+			</navLabel>
+			<content src="text/the-doctor.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-137" playOrder="137">
+			<navLabel>
+				<text>The Pipe</text>
+			</navLabel>
+			<content src="text/the-pipe.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-138" playOrder="138">
+			<navLabel>
+				<text>An Avenger</text>
+			</navLabel>
+			<content src="text/an-avenger.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-139" playOrder="139">
+			<navLabel>
+				<text>The Post</text>
+			</navLabel>
+			<content src="text/the-post.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-140" playOrder="140">
+			<navLabel>
+				<text>The Runaway</text>
+			</navLabel>
+			<content src="text/the-runaway.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-141" playOrder="141">
+			<navLabel>
+				<text>A Problem</text>
+			</navLabel>
+			<content src="text/a-problem.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-142" playOrder="142">
+			<navLabel>
+				<text>The Old House</text>
+			</navLabel>
+			<content src="text/the-old-house.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-143" playOrder="143">
+			<navLabel>
+				<text>The Cattle-Dealers</text>
+			</navLabel>
+			<content src="text/the-cattle-dealers.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-144" playOrder="144">
+			<navLabel>
+				<text>Expensive Lessons</text>
+			</navLabel>
+			<content src="text/expensive-lessons.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-145" playOrder="145">
+			<navLabel>
+				<text>The Lion and the Sun</text>
+			</navLabel>
+			<content src="text/the-lion-and-the-sun.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-146" playOrder="146">
+			<navLabel>
+				<text>In Trouble</text>
+			</navLabel>
+			<content src="text/in-trouble.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-147" playOrder="147">
+			<navLabel>
+				<text>The Kiss</text>
+			</navLabel>
+			<content src="text/the-kiss.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-148" playOrder="148">
+			<navLabel>
+				<text>Boys</text>
+			</navLabel>
+			<content src="text/boys.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-149" playOrder="149">
+			<navLabel>
+				<text>Kashtanka</text>
+			</navLabel>
+			<content src="text/kashtanka.xhtml"/>
+			<navPoint id="navpoint-150" playOrder="150">
+				<navLabel>
+					<text>I: Misbehaviour</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-151" playOrder="151">
+				<navLabel>
+					<text>II: A Mysterious Stranger</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-152" playOrder="152">
+				<navLabel>
+					<text>III: New and Very Agreeable Acquaintances</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-153" playOrder="153">
+				<navLabel>
+					<text>IV: Marvels on a Hurdle</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-154" playOrder="154">
+				<navLabel>
+					<text>V: Talent! Talent!</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-155" playOrder="155">
+				<navLabel>
+					<text>VI: An Uneasy Night</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-156" playOrder="156">
+				<navLabel>
+					<text>VII: An Unsuccessful Debut</text>
+				</navLabel>
+				<content src="text/kashtanka.xhtml#kashtanka-chapter-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-157" playOrder="157">
+			<navLabel>
+				<text>A Lady’s Story</text>
+			</navLabel>
+			<content src="text/a-ladys-story.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-158" playOrder="158">
+			<navLabel>
+				<text>A Story Without a Title</text>
+			</navLabel>
+			<content src="text/a-story-without-a-title.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-159" playOrder="159">
+			<navLabel>
+				<text>Sleepy</text>
+			</navLabel>
+			<content src="text/sleepy.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-160" playOrder="160">
+			<navLabel>
+				<text>The Steppe</text>
+			</navLabel>
+			<content src="text/the-steppe.xhtml"/>
+			<navPoint id="navpoint-161" playOrder="161">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-162" playOrder="162">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-163" playOrder="163">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-164" playOrder="164">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-165" playOrder="165">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-166" playOrder="166">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-167" playOrder="167">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-168" playOrder="168">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/the-steppe.xhtml#the-steppe-chapter-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-169" playOrder="169">
+			<navLabel>
+				<text>Lights</text>
+			</navLabel>
+			<content src="text/lights.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-170" playOrder="170">
+			<navLabel>
+				<text>The Beauties</text>
+			</navLabel>
+			<content src="text/the-beauties.xhtml"/>
+			<navPoint id="navpoint-171" playOrder="171">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-beauties.xhtml#the-beauties-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-172" playOrder="172">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-beauties.xhtml#the-beauties-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-173" playOrder="173">
+			<navLabel>
+				<text>The Party</text>
+			</navLabel>
+			<content src="text/the-party.xhtml"/>
+			<navPoint id="navpoint-174" playOrder="174">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-party.xhtml#the-party-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-175" playOrder="175">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-party.xhtml#the-party-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-176" playOrder="176">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-party.xhtml#the-party-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-177" playOrder="177">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-party.xhtml#the-party-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-178" playOrder="178">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-party.xhtml#the-party-chapter-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-179" playOrder="179">
+			<navLabel>
+				<text>The Shoemaker and the Devil</text>
+			</navLabel>
+			<content src="text/the-shoemaker-and-the-devil.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-180" playOrder="180">
+			<navLabel>
+				<text>The Bet</text>
+			</navLabel>
+			<content src="text/the-bet.xhtml"/>
+			<navPoint id="navpoint-181" playOrder="181">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-bet.xhtml#the-bet-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-182" playOrder="182">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-bet.xhtml#the-bet-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-183" playOrder="183">
+			<navLabel>
+				<text>The Princess</text>
+			</navLabel>
+			<content src="text/the-princess.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-184" playOrder="184">
+			<navLabel>
+				<text>A Dreary Story</text>
+			</navLabel>
+			<content src="text/a-dreary-story.xhtml"/>
+			<navPoint id="navpoint-185" playOrder="185">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-186" playOrder="186">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-187" playOrder="187">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-188" playOrder="188">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-189" playOrder="189">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-190" playOrder="190">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/a-dreary-story.xhtml#a-dreary-story-chapter-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-191" playOrder="191">
+			<navLabel>
+				<text>The Teacher of Literature</text>
+			</navLabel>
+			<content src="text/the-teacher-of-literature.xhtml"/>
+			<navPoint id="navpoint-192" playOrder="192">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-teacher-of-literature.xhtml#the-teacher-of-literature-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-193" playOrder="193">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-teacher-of-literature.xhtml#the-teacher-of-literature-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-194" playOrder="194">
+			<navLabel>
+				<text>A Nervous Breakdown</text>
+			</navLabel>
+			<content src="text/a-nervous-breakdown.xhtml"/>
+			<navPoint id="navpoint-195" playOrder="195">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-196" playOrder="196">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-197" playOrder="197">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-198" playOrder="198">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-199" playOrder="199">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-200" playOrder="200">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-201" playOrder="201">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/a-nervous-breakdown.xhtml#a-nervous-breakdown-chapter-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-202" playOrder="202">
+			<navLabel>
+				<text>The Horse-Stealers</text>
+			</navLabel>
+			<content src="text/the-horse-stealers.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-203" playOrder="203">
+			<navLabel>
+				<text>Gusev</text>
+			</navLabel>
+			<content src="text/gusev.xhtml"/>
+			<navPoint id="navpoint-204" playOrder="204">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/gusev.xhtml#gusev-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-205" playOrder="205">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/gusev.xhtml#gusev-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-206" playOrder="206">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/gusev.xhtml#gusev-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-207" playOrder="207">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/gusev.xhtml#gusev-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-208" playOrder="208">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/gusev.xhtml#gusev-chapter-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-209" playOrder="209">
+			<navLabel>
+				<text>Peasant Wives</text>
+			</navLabel>
+			<content src="text/peasant-wives.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-210" playOrder="210">
+			<navLabel>
+				<text>The Wife</text>
+			</navLabel>
+			<content src="text/the-wife.xhtml"/>
+			<navPoint id="navpoint-211" playOrder="211">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-212" playOrder="212">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-213" playOrder="213">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-214" playOrder="214">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-215" playOrder="215">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-216" playOrder="216">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-217" playOrder="217">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/the-wife.xhtml#the-wife-chapter-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-218" playOrder="218">
+			<navLabel>
+				<text>The Grasshopper</text>
+			</navLabel>
+			<content src="text/the-grasshopper.xhtml"/>
+			<navPoint id="navpoint-219" playOrder="219">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-220" playOrder="220">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-221" playOrder="221">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-222" playOrder="222">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-223" playOrder="223">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-224" playOrder="224">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-225" playOrder="225">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-226" playOrder="226">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/the-grasshopper.xhtml#the-grasshopper-chapter-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-227" playOrder="227">
+			<navLabel>
+				<text>After the Theatre</text>
+			</navLabel>
+			<content src="text/after-the-theatre.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-228" playOrder="228">
+			<navLabel>
+				<text>In Exile</text>
+			</navLabel>
+			<content src="text/in-exile.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-229" playOrder="229">
+			<navLabel>
+				<text>Terror</text>
+			</navLabel>
+			<content src="text/terror.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-230" playOrder="230">
+			<navLabel>
+				<text>Neighbours</text>
+			</navLabel>
+			<content src="text/neighbours.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-231" playOrder="231">
+			<navLabel>
+				<text>Ward No. 6</text>
+			</navLabel>
+			<content src="text/ward-no-6.xhtml"/>
+			<navPoint id="navpoint-232" playOrder="232">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-233" playOrder="233">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-234" playOrder="234">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-235" playOrder="235">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-236" playOrder="236">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-237" playOrder="237">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-238" playOrder="238">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-239" playOrder="239">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-8"/>
+			</navPoint>
+			<navPoint id="navpoint-240" playOrder="240">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-9"/>
+			</navPoint>
+			<navPoint id="navpoint-241" playOrder="241">
+				<navLabel>
+					<text>X</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-10"/>
+			</navPoint>
+			<navPoint id="navpoint-242" playOrder="242">
+				<navLabel>
+					<text>XI</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-11"/>
+			</navPoint>
+			<navPoint id="navpoint-243" playOrder="243">
+				<navLabel>
+					<text>XII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-12"/>
+			</navPoint>
+			<navPoint id="navpoint-244" playOrder="244">
+				<navLabel>
+					<text>XIII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-13"/>
+			</navPoint>
+			<navPoint id="navpoint-245" playOrder="245">
+				<navLabel>
+					<text>XIV</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-14"/>
+			</navPoint>
+			<navPoint id="navpoint-246" playOrder="246">
+				<navLabel>
+					<text>XV</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-15"/>
+			</navPoint>
+			<navPoint id="navpoint-247" playOrder="247">
+				<navLabel>
+					<text>XVI</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-16"/>
+			</navPoint>
+			<navPoint id="navpoint-248" playOrder="248">
+				<navLabel>
+					<text>XVII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-17"/>
+			</navPoint>
+			<navPoint id="navpoint-249" playOrder="249">
+				<navLabel>
+					<text>XVIII</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-18"/>
+			</navPoint>
+			<navPoint id="navpoint-250" playOrder="250">
+				<navLabel>
+					<text>XIX</text>
+				</navLabel>
+				<content src="text/ward-no-6.xhtml#ward-no-6-chapter-19"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-251" playOrder="251">
+			<navLabel>
+				<text>The Two Volodyas</text>
+			</navLabel>
+			<content src="text/the-two-volodyas.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-252" playOrder="252">
+			<navLabel>
+				<text>Rothschild’s Fiddle</text>
+			</navLabel>
+			<content src="text/rothschilds-fiddle.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-253" playOrder="253">
+			<navLabel>
+				<text>The Student</text>
+			</navLabel>
+			<content src="text/the-student.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-254" playOrder="254">
+			<navLabel>
+				<text>At a Country House</text>
+			</navLabel>
+			<content src="text/at-a-country-house.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-255" playOrder="255">
+			<navLabel>
+				<text>The Head-Gardener’s Story</text>
+			</navLabel>
+			<content src="text/the-head-gardners-story.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-256" playOrder="256">
+			<navLabel>
+				<text>A Woman’s Kingdom</text>
+			</navLabel>
+			<content src="text/a-womans-kingdom.xhtml"/>
+			<navPoint id="navpoint-257" playOrder="257">
+				<navLabel>
+					<text>I: Christmas Eve</text>
+				</navLabel>
+				<content src="text/a-womans-kingdom.xhtml#a-womans-kingdom-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-258" playOrder="258">
+				<navLabel>
+					<text>II: Christmas Morning</text>
+				</navLabel>
+				<content src="text/a-womans-kingdom.xhtml#a-womans-kingdom-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-259" playOrder="259">
+				<navLabel>
+					<text>III: Dinner</text>
+				</navLabel>
+				<content src="text/a-womans-kingdom.xhtml#a-womans-kingdom-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-260" playOrder="260">
+				<navLabel>
+					<text>IV: Evening</text>
+				</navLabel>
+				<content src="text/a-womans-kingdom.xhtml#a-womans-kingdom-chapter-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-261" playOrder="261">
+			<navLabel>
+				<text>Anna on the Neck</text>
+			</navLabel>
+			<content src="text/anna-on-the-neck.xhtml"/>
+			<navPoint id="navpoint-262" playOrder="262">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/anna-on-the-neck.xhtml#anna-on-the-neck-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-263" playOrder="263">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/anna-on-the-neck.xhtml#anna-on-the-neck-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-264" playOrder="264">
+			<navLabel>
+				<text>Whitebrow</text>
+			</navLabel>
+			<content src="text/whitebrow.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-265" playOrder="265">
+			<navLabel>
+				<text>Ariadne</text>
+			</navLabel>
+			<content src="text/ariadne.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-266" playOrder="266">
+			<navLabel>
+				<text>The Helpmate</text>
+			</navLabel>
+			<content src="text/the-helpmate.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-267" playOrder="267">
+			<navLabel>
+				<text>The Murder</text>
+			</navLabel>
+			<content src="text/the-murder.xhtml"/>
+			<navPoint id="navpoint-268" playOrder="268">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-269" playOrder="269">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-270" playOrder="270">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-271" playOrder="271">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-272" playOrder="272">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-273" playOrder="273">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-274" playOrder="274">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/the-murder.xhtml#the-murder-chapter-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-275" playOrder="275">
+			<navLabel>
+				<text>Three Years</text>
+			</navLabel>
+			<content src="text/three-years.xhtml"/>
+			<navPoint id="navpoint-276" playOrder="276">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-277" playOrder="277">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-278" playOrder="278">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-279" playOrder="279">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-280" playOrder="280">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-281" playOrder="281">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-282" playOrder="282">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-283" playOrder="283">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-8"/>
+			</navPoint>
+			<navPoint id="navpoint-284" playOrder="284">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-9"/>
+			</navPoint>
+			<navPoint id="navpoint-285" playOrder="285">
+				<navLabel>
+					<text>X</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-10"/>
+			</navPoint>
+			<navPoint id="navpoint-286" playOrder="286">
+				<navLabel>
+					<text>XI</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-11"/>
+			</navPoint>
+			<navPoint id="navpoint-287" playOrder="287">
+				<navLabel>
+					<text>XII</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-12"/>
+			</navPoint>
+			<navPoint id="navpoint-288" playOrder="288">
+				<navLabel>
+					<text>XIII</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-13"/>
+			</navPoint>
+			<navPoint id="navpoint-289" playOrder="289">
+				<navLabel>
+					<text>XIV</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-14"/>
+			</navPoint>
+			<navPoint id="navpoint-290" playOrder="290">
+				<navLabel>
+					<text>XV</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-15"/>
+			</navPoint>
+			<navPoint id="navpoint-291" playOrder="291">
+				<navLabel>
+					<text>XVI</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-16"/>
+			</navPoint>
+			<navPoint id="navpoint-292" playOrder="292">
+				<navLabel>
+					<text>XVII</text>
+				</navLabel>
+				<content src="text/three-years.xhtml#three-years-chapter-17"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-293" playOrder="293">
+			<navLabel>
+				<text>An Artist’s Story</text>
+			</navLabel>
+			<content src="text/an-artists-story.xhtml"/>
+			<navPoint id="navpoint-294" playOrder="294">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/an-artists-story.xhtml#an-artists-story-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-295" playOrder="295">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/an-artists-story.xhtml#an-artists-story-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-296" playOrder="296">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/an-artists-story.xhtml#an-artists-story-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-297" playOrder="297">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/an-artists-story.xhtml#an-artists-story-chapter-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-298" playOrder="298">
+			<navLabel>
+				<text>My Life</text>
+			</navLabel>
+			<content src="text/my-life.xhtml"/>
+			<navPoint id="navpoint-299" playOrder="299">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-300" playOrder="300">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-301" playOrder="301">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-302" playOrder="302">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-303" playOrder="303">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-304" playOrder="304">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-305" playOrder="305">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-306" playOrder="306">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-8"/>
+			</navPoint>
+			<navPoint id="navpoint-307" playOrder="307">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-9"/>
+			</navPoint>
+			<navPoint id="navpoint-308" playOrder="308">
+				<navLabel>
+					<text>X</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-10"/>
+			</navPoint>
+			<navPoint id="navpoint-309" playOrder="309">
+				<navLabel>
+					<text>XI</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-11"/>
+			</navPoint>
+			<navPoint id="navpoint-310" playOrder="310">
+				<navLabel>
+					<text>XII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-12"/>
+			</navPoint>
+			<navPoint id="navpoint-311" playOrder="311">
+				<navLabel>
+					<text>XIII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-13"/>
+			</navPoint>
+			<navPoint id="navpoint-312" playOrder="312">
+				<navLabel>
+					<text>XIV</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-14"/>
+			</navPoint>
+			<navPoint id="navpoint-313" playOrder="313">
+				<navLabel>
+					<text>XV</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-15"/>
+			</navPoint>
+			<navPoint id="navpoint-314" playOrder="314">
+				<navLabel>
+					<text>XVI</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-16"/>
+			</navPoint>
+			<navPoint id="navpoint-315" playOrder="315">
+				<navLabel>
+					<text>XVII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-17"/>
+			</navPoint>
+			<navPoint id="navpoint-316" playOrder="316">
+				<navLabel>
+					<text>XVIII</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-18"/>
+			</navPoint>
+			<navPoint id="navpoint-317" playOrder="317">
+				<navLabel>
+					<text>XIX</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-19"/>
+			</navPoint>
+			<navPoint id="navpoint-318" playOrder="318">
+				<navLabel>
+					<text>XX</text>
+				</navLabel>
+				<content src="text/my-life.xhtml#my-life-chapter-20"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-319" playOrder="319">
+			<navLabel>
+				<text>Peasants</text>
+			</navLabel>
+			<content src="text/peasants.xhtml"/>
+			<navPoint id="navpoint-320" playOrder="320">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-321" playOrder="321">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-322" playOrder="322">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-323" playOrder="323">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-324" playOrder="324">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-325" playOrder="325">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-326" playOrder="326">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-327" playOrder="327">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-8"/>
+			</navPoint>
+			<navPoint id="navpoint-328" playOrder="328">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/peasants.xhtml#peasants-chapter-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-329" playOrder="329">
+			<navLabel>
+				<text>The Petchenyeg</text>
+			</navLabel>
+			<content src="text/the-petchenyeg.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-330" playOrder="330">
+			<navLabel>
+				<text>At Home</text>
+			</navLabel>
+			<content src="text/at-home.xhtml"/>
+			<navPoint id="navpoint-331" playOrder="331">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/at-home.xhtml#at-home-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-332" playOrder="332">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/at-home.xhtml#at-home-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-333" playOrder="333">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/at-home.xhtml#at-home-chapter-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-334" playOrder="334">
+			<navLabel>
+				<text>The Schoolmistress</text>
+			</navLabel>
+			<content src="text/the-schoolmistress.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-335" playOrder="335">
+			<navLabel>
+				<text>The Man in a Case</text>
+			</navLabel>
+			<content src="text/the-man-in-a-case.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-336" playOrder="336">
+			<navLabel>
+				<text>Gooseberries</text>
+			</navLabel>
+			<content src="text/gooseberries.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-337" playOrder="337">
+			<navLabel>
+				<text>About Love</text>
+			</navLabel>
+			<content src="text/about-love.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-338" playOrder="338">
+			<navLabel>
+				<text>The Darling</text>
+			</navLabel>
+			<content src="text/the-darling.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-339" playOrder="339">
+			<navLabel>
+				<text>The New Villa</text>
+			</navLabel>
+			<content src="text/the-new-villa.xhtml"/>
+			<navPoint id="navpoint-340" playOrder="340">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-new-villa.xhtml#the-new-villa-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-341" playOrder="341">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-new-villa.xhtml#the-new-villa-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-342" playOrder="342">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-new-villa.xhtml#the-new-villa-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-343" playOrder="343">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-new-villa.xhtml#the-new-villa-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-344" playOrder="344">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-new-villa.xhtml#the-new-villa-chapter-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-345" playOrder="345">
+			<navLabel>
+				<text>On Official Duty</text>
+			</navLabel>
+			<content src="text/on-official-duty.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-346" playOrder="346">
+			<navLabel>
+				<text>The Lady with the Dog</text>
+			</navLabel>
+			<content src="text/the-lady-with-the-dog.xhtml"/>
+			<navPoint id="navpoint-347" playOrder="347">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-lady-with-the-dog.xhtml#the-lady-with-the-dog-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-348" playOrder="348">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-lady-with-the-dog.xhtml#the-lady-with-the-dog-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-349" playOrder="349">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-lady-with-the-dog.xhtml#the-lady-with-the-dog-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-350" playOrder="350">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-lady-with-the-dog.xhtml#the-lady-with-the-dog-chapter-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-351" playOrder="351">
+			<navLabel>
+				<text>At Christmas Time</text>
+			</navLabel>
+			<content src="text/at-christmas-time.xhtml"/>
+			<navPoint id="navpoint-352" playOrder="352">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/at-christmas-time.xhtml#at-christmas-time-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-353" playOrder="353">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/at-christmas-time.xhtml#at-christmas-time-chapter-2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-354" playOrder="354">
+			<navLabel>
+				<text>In the Ravine</text>
+			</navLabel>
+			<content src="text/in-the-ravine.xhtml"/>
+			<navPoint id="navpoint-355" playOrder="355">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-356" playOrder="356">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-357" playOrder="357">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-358" playOrder="358">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-359" playOrder="359">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-360" playOrder="360">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-6"/>
+			</navPoint>
+			<navPoint id="navpoint-361" playOrder="361">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-7"/>
+			</navPoint>
+			<navPoint id="navpoint-362" playOrder="362">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-8"/>
+			</navPoint>
+			<navPoint id="navpoint-363" playOrder="363">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/in-the-ravine.xhtml#in-the-ravine-chapter-9"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-364" playOrder="364">
+			<navLabel>
+				<text>The Bishop</text>
+			</navLabel>
+			<content src="text/the-bishop.xhtml"/>
+			<navPoint id="navpoint-365" playOrder="365">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-bishop.xhtml#the-bishop-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-366" playOrder="366">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-bishop.xhtml#the-bishop-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-367" playOrder="367">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-bishop.xhtml#the-bishop-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-368" playOrder="368">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-bishop.xhtml#the-bishop-chapter-4"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-369" playOrder="369">
+			<navLabel>
+				<text>Betrothed</text>
+			</navLabel>
+			<content src="text/betrothed.xhtml"/>
+			<navPoint id="navpoint-370" playOrder="370">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-1"/>
+			</navPoint>
+			<navPoint id="navpoint-371" playOrder="371">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-2"/>
+			</navPoint>
+			<navPoint id="navpoint-372" playOrder="372">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-3"/>
+			</navPoint>
+			<navPoint id="navpoint-373" playOrder="373">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-4"/>
+			</navPoint>
+			<navPoint id="navpoint-374" playOrder="374">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-5"/>
+			</navPoint>
+			<navPoint id="navpoint-375" playOrder="375">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/betrothed.xhtml#betrothed-chapter-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-376" playOrder="376">
+			<navLabel>
+				<text>Endnotes</text>
+			</navLabel>
+			<content src="text/endnotes.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-377" playOrder="377">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-378" playOrder="378">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

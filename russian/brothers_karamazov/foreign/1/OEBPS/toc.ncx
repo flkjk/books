@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="FB2BookID" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Том 9. Братья Карамазовы ссвпт-9</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="NavPoint-1" playOrder="1">
+      <navLabel>
+        <text>Братья Карамазовы</text>
+      </navLabel>
+      <content src="Text/section2.xhtml"/>
+      <navPoint id="NavPoint-2" playOrder="2">
+        <navLabel>
+          <text>От автора</text>
+        </navLabel>
+        <content src="Text/section4.xhtml"/>
+      </navPoint>
+      <navPoint id="NavPoint-3" playOrder="3">
+        <navLabel>
+          <text>Часть первая</text>
+        </navLabel>
+        <content src="Text/section5.xhtml"/>
+        <navPoint id="NavPoint-4" playOrder="4">
+          <navLabel>
+            <text>Книга первая  История одной семейки</text>
+          </navLabel>
+          <content src="Text/section6.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-5" playOrder="5">
+          <navLabel>
+            <text>Книга вторая  Неуместное собрание</text>
+          </navLabel>
+          <content src="Text/section7.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-6" playOrder="6">
+          <navLabel>
+            <text>Книга третья  Сладострастники</text>
+          </navLabel>
+          <content src="Text/section9.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="NavPoint-7" playOrder="7">
+        <navLabel>
+          <text>Часть вторая</text>
+        </navLabel>
+        <content src="Text/section11.xhtml"/>
+        <navPoint id="NavPoint-8" playOrder="8">
+          <navLabel>
+            <text>Книга четвертая  Hадрывы</text>
+          </navLabel>
+          <content src="Text/section12.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-9" playOrder="9">
+          <navLabel>
+            <text>Книга пятая  Pro и contra [16]</text>
+          </navLabel>
+          <content src="Text/section13.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-10" playOrder="10">
+          <navLabel>
+            <text>Книга шестая  Русский инок</text>
+          </navLabel>
+          <content src="Text/section15.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="NavPoint-11" playOrder="11">
+        <navLabel>
+          <text>Часть третья</text>
+        </navLabel>
+        <content src="Text/section16.xhtml"/>
+        <navPoint id="NavPoint-12" playOrder="12">
+          <navLabel>
+            <text>Книга седьмая  Алеша</text>
+          </navLabel>
+          <content src="Text/section17.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-13" playOrder="13">
+          <navLabel>
+            <text>Книга восьмая  Митя</text>
+          </navLabel>
+          <content src="Text/section18.xhtml"/>
+        </navPoint>
+        <navPoint id="NavPoint-14" playOrder="14">
+          <navLabel>
+            <text>Книга девятая  Предварительное следствие</text>
+          </navLabel>
+          <content src="Text/section20.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="NavPoint-15" playOrder="15">
+      <navLabel>
+        <text>Примечания</text>
+      </navLabel>
+      <content src="Text/section22.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
