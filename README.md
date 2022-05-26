@@ -10,7 +10,7 @@ Inside these folders, each book has a folder. For instance, `aeneid`.
 
 Inside this folder, there are always two folders: `foreign`, and `english`. These are the two epubs stored for this book. Note that these epubs are unzipped (epubs are really zip files).
 
-At the root of the repo is a single .json file named `book-information.json`. This is where metadata for each book is stored. Every book entry in the folder structure should be mirrored in this file, and vice versa.
+At the root of the repo is a single .json file named `book_information.json`. This is where metadata for each book is stored. Every book entry in the folder structure should be mirrored in this file, and vice versa.
 
 Here's an excerpt from this file:
 
