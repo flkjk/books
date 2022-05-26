@@ -33,4 +33,4 @@ Here's an excerpt from this file:
       ... (more languages) ...
     ]
 
-Adding to this file should be self explanatory; for descriptions we recommend using https://onlinejsontools.com/escape-string to store them in a .json string.
+Adding to this file should be self explanatory; for descriptions we recommend using https://onlinestringtools.com/escape-string to store them in a .json string.
