@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="lat">
+  <head>
+    <meta content="2c64de4a-b2dc-4c17-b113-455d20c59379" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.18)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vulgata Clementina</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Genesis</text>
+      </navLabel>
+      <content src="text/part0001_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Exodus</text>
+      </navLabel>
+      <content src="text/part0002_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Leviticus</text>
+      </navLabel>
+      <content src="text/part0003_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Numeri</text>
+      </navLabel>
+      <content src="text/part0004_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Deuteronomium</text>
+      </navLabel>
+      <content src="text/part0005_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Josue</text>
+      </navLabel>
+      <content src="text/part0006_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Judicum</text>
+      </navLabel>
+      <content src="text/part0007_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Ruth</text>
+      </navLabel>
+      <content src="text/part0008_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Regum I</text>
+      </navLabel>
+      <content src="text/part0009_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Regum II</text>
+      </navLabel>
+      <content src="text/part0010_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Regum III</text>
+      </navLabel>
+      <content src="text/part0011_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Regum IV</text>
+      </navLabel>
+      <content src="text/part0012_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Paralipomenon I</text>
+      </navLabel>
+      <content src="text/part0013_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Paralipomenon II</text>
+      </navLabel>
+      <content src="text/part0014_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Esdræ</text>
+      </navLabel>
+      <content src="text/part0015_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Nehemiæ</text>
+      </navLabel>
+      <content src="text/part0016_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Tobiæ</text>
+      </navLabel>
+      <content src="text/part0017_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Judith</text>
+      </navLabel>
+      <content src="text/part0018_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Esther</text>
+      </navLabel>
+      <content src="text/part0019_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Job</text>
+      </navLabel>
+      <content src="text/part0020_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Psalmi</text>
+      </navLabel>
+      <content src="text/part0021_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Proverbia</text>
+      </navLabel>
+      <content src="text/part0022_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Ecclesiastes</text>
+      </navLabel>
+      <content src="text/part0023_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Canticum Canticorum</text>
+      </navLabel>
+      <content src="text/part0024_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Sapientia</text>
+      </navLabel>
+      <content src="text/part0025_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Ecclesiasticus</text>
+      </navLabel>
+      <content src="text/part0026_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Isaias</text>
+      </navLabel>
+      <content src="text/part0027_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Jeremias</text>
+      </navLabel>
+      <content src="text/part0028_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Lamentationes</text>
+      </navLabel>
+      <content src="text/part0029_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Baruch</text>
+      </navLabel>
+      <content src="text/part0030_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Ezechiel</text>
+      </navLabel>
+      <content src="text/part0031_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Daniel</text>
+      </navLabel>
+      <content src="text/part0032_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Osee</text>
+      </navLabel>
+      <content src="text/part0033_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Joël</text>
+      </navLabel>
+      <content src="text/part0034_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Amos</text>
+      </navLabel>
+      <content src="text/part0035_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Abdias</text>
+      </navLabel>
+      <content src="text/part0036_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Jonas</text>
+      </navLabel>
+      <content src="text/part0037_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Michæa</text>
+      </navLabel>
+      <content src="text/part0038_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Nahum</text>
+      </navLabel>
+      <content src="text/part0039_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Habacuc</text>
+      </navLabel>
+      <content src="text/part0040_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Sophonias</text>
+      </navLabel>
+      <content src="text/part0041_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Aggæus</text>
+      </navLabel>
+      <content src="text/part0042_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Zacharias</text>
+      </navLabel>
+      <content src="text/part0043_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Malachias</text>
+      </navLabel>
+      <content src="text/part0044_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Machabæorum I</text>
+      </navLabel>
+      <content src="text/part0045_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Machabæorum II</text>
+      </navLabel>
+      <content src="text/part0046_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Matthæus</text>
+      </navLabel>
+      <content src="text/part0047_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Marcus</text>
+      </navLabel>
+      <content src="text/part0048_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Lucas</text>
+      </navLabel>
+      <content src="text/part0049_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Joannes</text>
+      </navLabel>
+      <content src="text/part0050_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>Actus Apostolorum</text>
+      </navLabel>
+      <content src="text/part0051_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>ad Romanos</text>
+      </navLabel>
+      <content src="text/part0052_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>ad Corinthios I</text>
+      </navLabel>
+      <content src="text/part0053_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>ad Corinthios II</text>
+      </navLabel>
+      <content src="text/part0054_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>ad Galatas</text>
+      </navLabel>
+      <content src="text/part0055_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>ad Ephesios</text>
+      </navLabel>
+      <content src="text/part0056_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>ad Philippenses</text>
+      </navLabel>
+      <content src="text/part0057_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>ad Colossenses</text>
+      </navLabel>
+      <content src="text/part0058_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>ad Thessalonicenses I</text>
+      </navLabel>
+      <content src="text/part0059_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>ad Thessalonicenses II</text>
+      </navLabel>
+      <content src="text/part0060_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>ad Timotheum I</text>
+      </navLabel>
+      <content src="text/part0061_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>ad Timotheum II</text>
+      </navLabel>
+      <content src="text/part0062_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>ad Titum</text>
+      </navLabel>
+      <content src="text/part0063_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>ad Philemonem</text>
+      </navLabel>
+      <content src="text/part0064_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>ad Hebræos</text>
+      </navLabel>
+      <content src="text/part0065_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>Jacobi</text>
+      </navLabel>
+      <content src="text/part0066_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_67" playOrder="67">
+      <navLabel>
+        <text>Petri I</text>
+      </navLabel>
+      <content src="text/part0067_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_68" playOrder="68">
+      <navLabel>
+        <text>Petri II</text>
+      </navLabel>
+      <content src="text/part0068_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>Joannis I</text>
+      </navLabel>
+      <content src="text/part0069_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>Joannis II</text>
+      </navLabel>
+      <content src="text/part0070_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>Joannis III</text>
+      </navLabel>
+      <content src="text/part0071_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_72" playOrder="72">
+      <navLabel>
+        <text>Judæ</text>
+      </navLabel>
+      <content src="text/part0072_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_73" playOrder="73">
+      <navLabel>
+        <text>Apocalypsis</text>
+      </navLabel>
+      <content src="text/part0073_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/14328</dc:identifier>
+    <dc:creator opf:file-as="Boethius">Boethius</dc:creator>
+    <dc:contributor opf:role="trl" opf:file-as="James, H. R. (Henry Rosher)">H. R. James</dc:contributor>
+    <dc:title>The Consolation of Philosophy</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Philosophy and religion</dc:subject>
+    <dc:subject>Happiness</dc:subject>
+    <dc:date opf:event="publication">2004-12-11</dc:date>
+    <dc:date opf:event="conversion">2022-05-07T09:37:44.893534+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/14328/14328-h/14328-h.htm</dc:source>
+    <meta name="cover" content="item2"/>
+  </metadata>
+  <manifest>
+    <!--Image: 753 x 1125 size=158343 -->
+    <item href="2877005375507822793_image01.jpg" id="item1" media-type="image/jpeg"/>
+    <!--Image: 1200 x 1800 size=44073 -->
+    <item href="5870627204291680489_14328-cover.png" id="item2" media-type="image/png"/>
+    <item href="pgepub.css" id="item3" media-type="text/css"/>
+    <item href="0.css" id="item4" media-type="text/css"/>
+    <item href="1.css" id="item5" media-type="text/css"/>
+    <!--Chunk: size=59010 Split on div-->
+    <item href="5870896131345335351_14328-h-0.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=54113 Split on div-->
+    <item href="5870896131345335351_14328-h-1.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=57229 Split on div-->
+    <item href="5870896131345335351_14328-h-2.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=62986 Split on div-->
+    <item href="5870896131345335351_14328-h-3.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51692 Split on div-->
+    <item href="5870896131345335351_14328-h-4.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=57874-->
+    <item href="5870896131345335351_14328-h-5.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

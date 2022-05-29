@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/10001</dc:identifier>
+    <dc:creator opf:file-as="Seneca, Lucius Annaeus">Lucius Annaeus Seneca</dc:creator>
+    <dc:contributor opf:role="trl" opf:file-as="Rouse, W. H. D. (William Henry Denham)">W. H. D. Rouse</dc:contributor>
+    <dc:title>Apocolocyntosis</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Claudius, Emperor of Rome, 10 B.C.-54 A.D. -- Humor</dc:subject>
+    <dc:date opf:event="publication">2003-11-01</dc:date>
+    <dc:date opf:event="conversion">2022-05-05T09:45:57.591350+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/10001/10001-h/10001-h.htm</dc:source>
+    <meta name="cover" content="item6"/>
+  </metadata>
+  <manifest>
+    <!--Image: 120 x 17 size=1730 -->
+    <item href="1245679213685980291_apokolokyntosis.gif" id="item1" media-type="image/gif"/>
+    <!--Image: 75 x 14 size=1426 -->
+    <item href="1245679213685980291_apothesis.gif" id="item2" media-type="image/gif"/>
+    <!--Image: 138 x 20 size=1855 -->
+    <item href="1245679213685980291_apokolokyntosis2.gif" id="item3" media-type="image/gif"/>
+    <!--Image: 41 x 15 size=1190 -->
+    <item href="1245679213685980291_m.gif" id="item4" media-type="image/gif"/>
+    <!--Image: 29 x 15 size=723 -->
+    <item href="1245679213685980291_th.gif" id="item5" media-type="image/gif"/>
+    <!--Image: 1200 x 1800 size=43849 -->
+    <item href="7932206227484258831_10001-cover.png" id="item6" media-type="image/png"/>
+    <item href="pgepub.css" id="item7" media-type="text/css"/>
+    <item href="0.css" id="item8" media-type="text/css"/>
+    <!--Chunk: size=59484-->
+    <item href="1245679213685980291_10001-h-0.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

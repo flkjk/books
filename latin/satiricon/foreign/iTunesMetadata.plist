@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Petronius</string>
+	<key>book-info</key>
+	<dict>
+		<key>PageProgression</key>
+		<string>default</string>
+		<key>cover-image-hash</key>
+		<string>442E21DD8628CA04494D2868CD4B5395</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>69DA871BB5DA3B8EDC716A8148A84767</string>
+		<key>publisher-unique-id</key>
+		<string>56bf0960-c1d8-47c0-a966-432de39fd427</string>
+		<key>unique-id</key>
+		<integer>1795661164714088781</integer>
+	</dict>
+	<key>genre</key>
+	<string>Latin</string>
+	<key>itemName</key>
+	<string>Satiricon</string>
+	<key>playlistName</key>
+	<string>Satiricon</string>
+	<key>releaseDate</key>
+	<string>2012-07-17T19:27:42+00:00</string>
+	<key>sort-artist</key>
+	<string>Petronius</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

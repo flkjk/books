@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="4ccb1200-3a10-4f95-91cc-49b36f75374d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Historiae</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u57bc0a25-1446-4546-a211-787653f3aa76" playOrder="1">
+      <navLabel>
+        <text>LIBER PRIMVS</text>
+      </navLabel>
+      <content src="tac.hist_split_000.html"/>
+    </navPoint>
+    <navPoint id="u44ed64e8-7bd9-4fe0-9352-0f569394e83a" playOrder="2">
+      <navLabel>
+        <text>LIBER SECVNDVS</text>
+      </navLabel>
+      <content src="tac.hist_split_001.html"/>
+    </navPoint>
+    <navPoint id="u24b48028-4c44-43de-8b25-7dbef017e446" playOrder="3">
+      <navLabel>
+        <text>LIBER TERTIVS</text>
+      </navLabel>
+      <content src="tac.hist_split_002.html"/>
+    </navPoint>
+    <navPoint id="u523b7014-4fe4-409c-bd5f-4c4165e92266" playOrder="4">
+      <navLabel>
+        <text>LIBER QVARTVS</text>
+      </navLabel>
+      <content src="tac.hist_split_003.html"/>
+    </navPoint>
+    <navPoint id="u6f4dc7cb-7e75-4b98-a096-01be383ad2b0" playOrder="5">
+      <navLabel>
+        <text>LIBER QVINTVS</text>
+      </navLabel>
+      <content src="tac.hist_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

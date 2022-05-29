@@ -1,0 +1,182 @@
+/*  XML blockout */
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    text-indent: 1em;
+    margin-bottom: 0.75em
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+h3 {
+    font-variant: small-caps
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 40em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+/* poetry number */
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%
+    }
+.quotsig {
+    margin-left: 35%;
+    text-indent: 0
+    }
+.caption {
+    margin-top: 0;
+    font-size: smaller;
+    text-align: center
+    }
+.pagenum {
+    font-size: smaller;
+    text-align: right
+    }
+/* page numbers */
+.bb {
+    border-bottom: solid 2px
+    }
+.bl {
+    border-left: solid 2px
+    }
+.bt {
+    border-top: solid 2px
+    }
+.br {
+    border-right: solid 2px
+    }
+.bbox {
+    border: solid 2px
+    }
+.center {
+    text-align: center;
+    text-indent: 0
+    }
+.noindent {
+    text-indent: 0
+    }
+.extend {
+    text-indent: -1em
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.figleft {
+    clear: left;
+    margin-left: 0;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+    padding: 0;
+    text-align: center
+    }
+.figright {
+    clear: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 0;
+    padding: 0;
+    text-align: center
+    }
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none
+    }
+.poem {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left
+    }
+.poem br {
+    display: none
+    }
+.poem .stanza {
+    margin: 1em 0 1em 0
+    }
+.poem span {
+    display: block;
+    margin: 0;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i2 {
+    display: block;
+    margin-left: 2em
+    }
+.poem span.i4 {
+    display: block;
+    margin-left: 4em
+    }
+/*
+ * The TOC, LOI, and Index are unordered lists with no prefix symbols.
+ * The tocright class is used to right-align page numbers in a TOC
+ * (not to be confused with linenum, used for poetry line#s).
+ */
+ul.TOC {
+    /* styling the Table of Contents */
+    list-style-type: none;
+    /* a list with no symbol */
+    /* makes a "container" for span.tocright */
+    margin-right: 5%;
+    /* pulls the page#s in a skosh */
+    text-align: center;
+    font-size: larger
+    }
+ul.TOCSub {
+    /* sub-entries in the TOC */
+    list-style-type: none;
+    /* makes a "container" for span.tocright */
+    margin-right: 10%;
+    /* pulls these page#s in even more*/
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-align: left;
+    font-size: smaller
+    }
+span.tocright {
+    /* use absolute positioning to move page# right */
+    }
+ul.Quot {
+    /* styling the Quotation References */
+    list-style-type: none;
+    font-size: 80%
+    }
+ul.QuotSub {
+    list-style-type: none
+    }
+ul.Quot li {
+    margin-top: 0
+    }

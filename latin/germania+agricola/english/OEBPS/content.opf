@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/7524</dc:identifier>
+    <dc:creator opf:file-as="Tacitus, Cornelius">Cornelius Tacitus</dc:creator>
+    <dc:title>The Germany and the Agricola of Tacitus</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Agricola, Gnaeus Julius, 40-93</dc:subject>
+    <dc:subject>Germanic peoples -- Early works to 1800</dc:subject>
+    <dc:subject>Statesmen -- Rome -- Biography -- Early works to 1800</dc:subject>
+    <dc:date opf:event="publication">2005-02-01</dc:date>
+    <dc:date opf:event="conversion">2022-05-04T09:46:11.694803+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/7524/7524-h/7524-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=50801 -->
+    <item href="5732821617994288893_7524-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=82389 Split on p-->
+    <item href="5185275554932768637_7524-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82934 Split on p-->
+    <item href="5185275554932768637_7524-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82575 Split on p-->
+    <item href="5185275554932768637_7524-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=64738 Split on div-->
+    <item href="5185275554932768637_7524-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=66678 Split on div-->
+    <item href="5185275554932768637_7524-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82082 Split on p-->
+    <item href="5185275554932768637_7524-h-5.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=40195-->
+    <item href="5185275554932768637_7524-h-6.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>
