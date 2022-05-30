@@ -1,77 +1,18 @@
-.calibre {
-    display: block;
-    font-size: 1em;
-    line-height: 1.2;
-    margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-top: 0;
-    padding-left: 0;
-    padding-right: 0
-    }
-.calibre1 {
-    display: block;
-    list-style-type: disc;
-    margin-bottom: 1em;
-    margin-right: 0;
-    margin-top: 1em
-    }
-.calibre2 {
-    display: list-item
-    }
-.calibre3 {
-    color: #000;
-    display: block;
-    font-family: sans-serif;
-    font-size: 1em;
-    height: 100%;
-    line-height: 1.2;
-    margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 0
-    }
-.calibre4 {
-    display: block;
-    font-size: 1.125em;
-    font-weight: normal;
-    line-height: 1.2;
-    margin-bottom: 0.7em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1.4em
-    }
-.calibre5 {
-    display: block
-    }
-.calibre6 {
-    display: block
-    }
-.chapter {
-    display: block;
-    padding-bottom: 1.7em
-    }
-.chapter-num {
-    font-size: 1.5em;
-    font-weight: bold;
-    line-height: 1.2
-    }
-.poetry {
-    display: block;
-    margin-left: 8%;
-    margin-right: 8%;
-    text-align: left
-    }
-.speaker {
-    font-size: 0.75em;
-    text-transform: uppercase
-    }
-.vn {
-    color: red;
-    font-size: 0.75em;
-    vertical-align: super
-    }
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+a.footnoteRef { vertical-align: super; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+
