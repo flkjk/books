@@ -19,6 +19,78 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "The Latin Library",
         "description": "Commentaries on the Gallic War describes the conflicts between Rome and the region of Gaul in western Europe, as well as the Germanic peoples who lived to the east of the river Rhine, and Britain to the north, in the later years of the Roman republic.\n\nDespite being written in the 3rd person, the commentaries are the memoirs of Julius Caesar himself, and offer a unique insight into these events. — Standard Ebooks"
+      },
+      {
+        "filename": "annals",
+        "title": "The Reign of Tiberius, Out of the First Six Annals of Tacitus",
+        "author": "Tacitus",
+        "translator": "Thomas Gordon",
+        "english_source": "Gutenberg",
+        "foreign_source": "The Latin Library",
+        "description": ""
+      },
+      {
+        "filename": "apocolocyntosis",
+        "title": "Apocolocyntosis",
+        "author": "Seneca the Younger",
+        "translator": "W.H.D. Rouse",
+        "english_source": "Gutenberg",
+        "foreign_source": "The Latin Library",
+        "description": ""
+      },
+      {
+        "filename": "carmina",
+        "title": "Carmina",
+        "author": "Catullus",
+        "translator": "Richard Burton, Leonard Smithers",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "description": ""
+      },
+      {
+        "filename": "confessions",
+        "title": "The Confessions of St. Augustine",
+        "author": "Bishop of Hippo Saint Augustine",
+        "translator": "E.B. Pusey",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "description": ""
+      },
+      {
+        "filename": "germania+agricola",
+        "title": "Germania and Agricola",
+        "author": "Tacitus",
+        "translator": "",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "description": ""
+      },
+      {
+        "filename": "histories",
+        "title": "The Histories, Volumes I and II",
+        "author": "Tacitus",
+        "translator": "W. Hamilton Fyfe",
+        "english_source": "Gutenberg",
+        "foreign_source": "The Latin Library",
+        "description": ""
+      },
+      {
+        "filename": "satiricon",
+        "title": "The Satyricon",
+        "author": "Gaius Petronius Arbiter",
+        "translator": "W.C. Firebaugh",
+        "english_source": "Gutenberg",
+        "foreign_source": "The Latin Library",
+        "description": ""
+      },
+      {
+        "filename": "vulgate",
+        "title": "Biblia Sacra Vulgata Clementina",
+        "author": "Saint Jerome",
+        "translator": "",
+        "english_source": "Gutenberg",
+        "foreign_source": "The Clementine Vulgate Project",
+        "description": ""
       }
     ]
   },

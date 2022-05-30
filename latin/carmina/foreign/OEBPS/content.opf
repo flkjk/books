@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/23294</dc:identifier>
+    <dc:creator opf:file-as="Catullus, Gaius Valerius">Gaius Valerius Catullus</dc:creator>
+    <dc:creator opf:file-as="Ellis, Robinson">Robinson Ellis</dc:creator>
+    <dc:title>Catulli Carmina</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">la</dc:language>
+    <dc:subject>Poetry</dc:subject>
+    <dc:date opf:event="publication">2007-11-02</dc:date>
+    <dc:date opf:event="conversion">2022-05-11T08:33:09.280638+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/23294/23294-h/23294-h.htm</dc:source>
+    <meta name="cover" content="item4"/>
+  </metadata>
+  <manifest>
+    <!--Image: 86 x 103 size=2192 -->
+    <item href="8817259634402577881_publogo.gif" id="item1" media-type="image/gif"/>
+    <!--Image: 50 x 22 size=332 -->
+    <item href="8817259634402577881_appII.png" id="item2" media-type="image/png"/>
+    <!--Image: 128 x 16 size=497 -->
+    <item href="8817259634402577881_appXV.png" id="item3" media-type="image/png"/>
+    <!--Image: 1200 x 1800 size=47815 -->
+    <item href="966994995993562454_23294-cover.png" id="item4" media-type="image/png"/>
+    <item href="pgepub.css" id="item5" media-type="text/css"/>
+    <item href="0.css" id="item6" media-type="text/css"/>
+    <item href="1.css" id="item7" media-type="text/css"/>
+    <!--Chunk: size=39636 Split on div.maintext-->
+    <item href="8002953751338493200_23294-h-0.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51841 Split on div-->
+    <item href="8002953751338493200_23294-h-1.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51233 Split on div-->
+    <item href="8002953751338493200_23294-h-2.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=68640 Split on div-->
+    <item href="8002953751338493200_23294-h-3.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=92667 Split on div-->
+    <item href="8002953751338493200_23294-h-4.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=59609 Split on div-->
+    <item href="8002953751338493200_23294-h-5.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51896 Split on div-->
+    <item href="8002953751338493200_23294-h-6.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=30624-->
+    <item href="8002953751338493200_23294-h-7.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=68461 Split on div-->
+    <item href="8002953751338493200_23294-h-8.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21533-->
+    <item href="8002953751338493200_23294-h-9.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

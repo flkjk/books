@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/5225</dc:identifier>
+    <dc:creator opf:file-as="Petronius Arbiter">Petronius Arbiter</dc:creator>
+    <dc:contributor opf:role="trl" opf:file-as="Firebaugh, W. C.">W. C. Firebaugh</dc:contributor>
+    <dc:title>The Satyricon — Complete</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Rome -- Fiction</dc:subject>
+    <dc:subject>Satire, Latin -- Translations into English</dc:subject>
+    <dc:date opf:event="publication">2004-06-01</dc:date>
+    <dc:date opf:event="conversion">2022-05-03T08:32:04.370980+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/5225/5225-h/5225-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 442 x 805 size=43207 -->
+    <item href="1630706419585519552_cover.jpg" id="item1" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=51674 Split on div-->
+    <item href="6399367267253660435_5225-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51618 Split on div-->
+    <item href="6399367267253660435_5225-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=70159 Split on div-->
+    <item href="6399367267253660435_5225-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51295 Split on div-->
+    <item href="6399367267253660435_5225-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=56464 Split on div-->
+    <item href="6399367267253660435_5225-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=59705 Split on div-->
+    <item href="6399367267253660435_5225-h-5.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=59747 Split on div-->
+    <item href="6399367267253660435_5225-h-6.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=72252 Split on h2-->
+    <item href="6399367267253660435_5225-h-7.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=77419 Split on h2-->
+    <item href="6399367267253660435_5225-h-8.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=75761 Split on h2-->
+    <item href="6399367267253660435_5225-h-9.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=45055-->
+    <item href="6399367267253660435_5225-h-10.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>
