@@ -26,7 +26,7 @@ Here's an excerpt from this file:
             "translator": "John Dryden",
             "english_source": "Standard Ebooks",
             "foreign_source": "Gutenberg",
-			"verified": false,
+            "verified": false,
             "description": "Virgil’s epic poem begins with Aeneas fleeing the ruins of Troy with his father Anchises and his young son Ascanius, with a plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneas will one day destroy Carthage, Juno’s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneas makes his way towards his new home he encounters Dido, Carthage’s queen, and falls deeply in love. — Standard Ebooks"
           },
           ... (more books) ...
