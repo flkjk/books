@@ -1,7 +1,7 @@
 
-# Literango Book Repo
+# Langduet Book Repo
 
-Public domain books created or sourced for [literango.com](https://literango.com).
+Public domain books created or sourced for [langduet.com](https://langduet.com).
 
 ## The structure of this repo
 
@@ -46,4 +46,4 @@ In order for a book to be marked as "verified" in the metadata file, it must mee
 
 Although you're welcome to play around with CSS to make everything in a chapter line up perfectly, it is not necessary.
 
-Additionally, if you modify an Epub, make sure to add "Literango, " to the source metadata.
+Additionally, if you modify an Epub, make sure to add "Langduet, " to the source metadata.
