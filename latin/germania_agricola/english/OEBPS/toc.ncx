@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
-<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
   <head>
     <meta name="dtb:uid" content="http://www.gutenberg.org/7524"/>
@@ -17,25 +15,25 @@
       <navLabel>
         <text>THE GERMANY AND THE AGRICOLA OF TACITUS.</text>
       </navLabel>
-      <content src="5185275554932768637_7524-h-0.htm.html#pgepubid00000"/>
+      <content src="intro.html#pgepubid00000"/>
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
         <text>THE OXFORD TRANSLATION REVISED, WITH NOTES.</text>
       </navLabel>
-      <content src="5185275554932768637_7524-h-0.htm.html#pgepubid00001"/>
+      <content src="intro.html#pgepubid00001"/>
       <navPoint id="np-3" playOrder="3">
         <navLabel>
           <text>With An Introduction By Edward Brooks, Jr.</text>
         </navLabel>
-        <content src="5185275554932768637_7524-h-0.htm.html#pgepubid00002"/>
+        <content src="intro.html#pgepubid00002"/>
       </navPoint>
     </navPoint>
     <navPoint id="np-4" playOrder="4">
       <navLabel>
         <text>INTRODUCTION.</text>
       </navLabel>
-      <content src="5185275554932768637_7524-h-0.htm.html#pgepubid00003"/>
+      <content src="intro.html#pgepubid00003"/>
     </navPoint>
     <navPoint id="np-5" playOrder="5">
       <navLabel>

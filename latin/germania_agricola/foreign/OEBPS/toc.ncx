@@ -35,59 +35,60 @@
       <navLabel>
         <text>C. CORN. TACITUS</text>
       </navLabel>
-      <content src="3540147974711997195_9090-8-0.txt.html#id00057"/>
+      <content src="3540147974711997195_9090-8-1.txt.html#id00057"/>
       <navPoint id="np-5" playOrder="5">
         <navLabel>
           <text>BREVIARIUM LIBELLI.</text>
         </navLabel>
-        <content src="3540147974711997195_9090-8-0.txt.html#id00059"/>
+        <content src="3540147974711997195_9090-8-1.txt.html#id00059"/>
       </navPoint>
     </navPoint>
     <navPoint id="np-6" playOrder="6">
       <navLabel>
         <text>CN. JULII AGRICOLAE VITA.</text>
       </navLabel>
-      <content src="3540147974711997195_9090-8-1.txt.html#id00108"/>
+      <content src="agricola.html#id00108"/>
       <navPoint id="np-7" playOrder="7">
         <navLabel>
           <text>BREVIARIUM.</text>
         </navLabel>
-        <content src="3540147974711997195_9090-8-1.txt.html#id00109"/>
+        <content src="agricola.html#id00109"/>
       </navPoint>
-      <navPoint id="np-8" playOrder="8">
+  </navMap>
+  <navPoint id="np-8" playOrder="8">
         <navLabel>
           <text>NOTES</text>
         </navLabel>
-        <content src="3540147974711997195_9090-8-1.txt.html#id00160"/>
+        <content src="3540147974711997195_9090-8-2.txt.html#id00160"/>
         <navPoint id="np-9" playOrder="9">
           <navLabel>
             <text>TABLE OF ABBREVIATIONS.</text>
           </navLabel>
-          <content src="3540147974711997195_9090-8-1.txt.html#id00161"/>
+          <content src="3540147974711997195_9090-8-2.txt.html#id00161"/>
           <navPoint id="np-10" playOrder="10">
             <navLabel>
               <text>1. WORKS OF TACITUS.</text>
             </navLabel>
-            <content src="3540147974711997195_9090-8-1.txt.html#id00163"/>
+            <content src="3540147974711997195_9090-8-2.txt.html#id00163"/>
           </navPoint>
           <navPoint id="np-11" playOrder="11">
             <navLabel>
               <text>2. ANNOTATORS CITED AS AUTHORITIES.</text>
             </navLabel>
-            <content src="3540147974711997195_9090-8-1.txt.html#id00165"/>
+            <content src="3540147974711997195_9090-8-2.txt.html#id00165"/>
           </navPoint>
           <navPoint id="np-12" playOrder="12">
             <navLabel>
               <text>3. OTHER AUTHORITIES.</text>
             </navLabel>
-            <content src="3540147974711997195_9090-8-1.txt.html#id00167"/>
+            <content src="3540147974711997195_9090-8-2.txt.html#id00167"/>
           </navPoint>
         </navPoint>
         <navPoint id="np-13" playOrder="13">
           <navLabel>
             <text>GERMANIA.</text>
           </navLabel>
-          <content src="3540147974711997195_9090-8-1.txt.html#id00169"/>
+          <content src="3540147974711997195_9090-8-2.txt.html#id00169"/>
         </navPoint>
         <navPoint id="np-14" playOrder="14">
           <navLabel>
@@ -109,5 +110,4 @@
         </navPoint>
       </navPoint>
     </navPoint>
-  </navMap>
 </ncx>
