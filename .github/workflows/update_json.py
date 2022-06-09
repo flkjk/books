@@ -16,12 +16,12 @@ with open(sys.argv[4], "r") as jsonFile:
 
 with open(sys.argv[1]) as changes_file:
   for line in changes_file:
-    split = line.split("/")
+    split = line.strip().split("/")
     print(split)
 
     if len(split) < 3:
       continue
-    if split[2] != "english" and split[2] != "foreign":
+    if split[2] != "english.epub" and split[2] != "foreign.epub":
       continue
 
     language = split[0]
