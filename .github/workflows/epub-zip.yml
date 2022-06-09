@@ -8,30 +8,27 @@ jobs:
       - name: checkout main
         uses: actions/checkout@v2
         with:
+          ref: zip
           path: main
 
       - name: zip
         run: |
           cd main
-          pwd
-          ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.zip * && cd .. && mv foreign.zip foreign.epub && rm -rf foreign && cd english && deterministic-zip -r ../english.zip * && cd .. && mv english.zip english.epub && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md .git
-          cd ..
           
       - name: checkout zip
         uses: actions/checkout@v2
         with:
           ref: zip
-          path: zip
+          path: main/zip
           
       - name: commit zip
         run: |
-          cd zip
-          rm -rf !(".git")
-          cp -r ../main/* .
+          cp -r zip/.git .
+          rm -rf zip
           git diff --name-only > ../changes
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
