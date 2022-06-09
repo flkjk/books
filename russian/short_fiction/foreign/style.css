@@ -1,0 +1,149 @@
+body.cover {
+	margin: 0px;
+	oeb-column-number: 1;
+	padding: 0px;
+}
+
+svg.cover-svg {
+	height: 100%;
+	width: 100%;
+}
+
+.title2,
+.title3 {
+	break-after: avoid;	
+	page-break-after: avoid;
+	break-inside: avoid;	
+	page-break-inside: avoid;
+	hyphens: none;
+	adobe-text-layout: optimizeSpeed; /* For Nook */
+	adobe-hyphenate: none;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-epub-hyphens: none;
+	margin: 3em 0 !important;
+	text-align: center !important;
+}
+
+.z {
+	font-family: 'Times New Roman', serif;
+	margin-right: 8pt;
+}
+
+.title {
+	font-size: 2.2em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 0px;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+.p {
+	margin: 0px 0px 0.5em 0px;
+	text-align: inherit;
+	text-indent: 0px;
+}
+
+.image {
+	padding: 3px;
+	text-align: center;
+}
+
+.z1 {
+	max-width: 95%;
+}
+
+.p1 {
+	margin: 0px;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+
+.title1 {
+	font-size: 1.8em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 0px;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+.a {
+	font-size: 0.7em;
+	line-height: 0.1;
+	vertical-align: super;
+}
+
+.title2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 1.563em;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: left;
+}
+
+.sup {
+	font-size: 0.7em;
+	line-height: 0.1;
+}
+
+.empty-line {
+	height: 1em;
+	margin: 0px;
+}
+
+.subtitle {
+	font-style: italic;
+	font-weight: bold;
+	margin: 0.5em 2em;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+	text-indent: 0px;
+}
+
+.epigraph {
+	font-style: italic;
+	margin: 1em 1em 2em 30%;
+	text-align: left;
+}
+
+.cite {
+	font-size: 0.95em;
+	margin: 0.5em 0px 0.5em 1em;
+}
+
+.poem {
+	margin: 0.5em 0px 0.5em 2em;
+}
+
+.stanza {
+	margin: 0.5em 0px;
+	page-break-inside: avoid;
+}
+
+.v {
+	margin: 0px;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+.title3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 1.923em;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: left;
+}
+
+.title4 {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 2.083em;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: left;
+}

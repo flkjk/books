@@ -1,0 +1,97 @@
+/**/
+body {
+    color: Black;
+    background: White;
+    margin-right: 5%;
+    margin-left: 10%;
+    font-size: medium;
+    font-family: "Times New Roman", serif;
+    text-align: justify
+    }
+p {
+    text-indent: 0%
+    }
+p.noindent {
+    text-indent: 0%
+    }
+p.poem {
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: small
+    }
+p.letter {
+    font-size: small;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+p.salutation {
+    font-size: small;
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+p.closing {
+    font-size: small;
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+p.footnote {
+    font-size: small;
+    text-indent: 0%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+p.transnote {
+    font-size: small;
+    text-indent: 0%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+p.index {
+    font-size: small;
+    text-indent: -5%;
+    margin-left: 5%;
+    margin-right: 0%
+    }
+p.intro {
+    font-size: medium;
+    text-indent: -5%;
+    margin-left: 5%;
+    margin-right: 0%
+    }
+p.dedication {
+    text-indent: 0%;
+    margin-left: 15%;
+    text-align: justify
+    }
+p.published {
+    font-size: small;
+    text-indent: 0%;
+    margin-left: 15%
+    }
+p.quote {
+    font-size: small;
+    text-indent: 4%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+p.report {
+    font-size: small;
+    text-indent: 4%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+p.report2 {
+    font-size: small;
+    text-indent: 4%;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+p.finis {
+    text-align: center;
+    text-indent: 0%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+/**/

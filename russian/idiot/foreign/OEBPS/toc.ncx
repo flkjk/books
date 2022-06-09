@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="FB2BookID" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Том 6. Идиот ссвпт-6</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="NavPoint-1" playOrder="1">
+      <navLabel>
+        <text>Идиот</text>
+      </navLabel>
+      <content src="Text/section2.xhtml"/>
+      <navPoint id="NavPoint-2" playOrder="2">
+        <navLabel>
+          <text>Часть первая</text>
+        </navLabel>
+        <content src="Text/section3.xhtml"/>
+      </navPoint>
+      <navPoint id="NavPoint-3" playOrder="3">
+        <navLabel>
+          <text>Часть вторая</text>
+        </navLabel>
+        <content src="Text/section7.xhtml"/>
+      </navPoint>
+      <navPoint id="NavPoint-4" playOrder="4">
+        <navLabel>
+          <text>Часть третья</text>
+        </navLabel>
+        <content src="Text/section10.xhtml"/>
+      </navPoint>
+      <navPoint id="NavPoint-5" playOrder="5">
+        <navLabel>
+          <text>Часть четвертая</text>
+        </navLabel>
+        <content src="Text/section13.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="NavPoint-6" playOrder="6">
+      <navLabel>
+        <text>Приложение. Наброски и планы</text>
+      </navLabel>
+      <content src="Text/section16.xhtml"/>
+      <navPoint id="NavPoint-7" playOrder="7">
+        <navLabel>
+          <text>Одна мысль (Поэма)</text>
+        </navLabel>
+        <content src="Text/section17.xhtml"/>
+      </navPoint>
+      <navPoint id="NavPoint-8" playOrder="8">
+        <navLabel>
+          <text>Идея. Юродивый</text>
+        </navLabel>
+        <content src="Text/section18.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="NavPoint-9" playOrder="9">
+      <navLabel>
+        <text>Примечания</text>
+      </navLabel>
+      <content src="Text/section19.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

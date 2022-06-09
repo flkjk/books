@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/2638</dc:identifier>
+    <dc:creator opf:file-as="Dostoyevsky, Fyodor">Fyodor Dostoyevsky</dc:creator>
+    <dc:contributor opf:role="trl" opf:file-as="Martin, Eva (Translator)">Eva Martin</dc:contributor>
+    <dc:title>The Idiot</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Russia -- Social conditions -- 1801-1917 -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2001-05-01</dc:date>
+    <dc:date opf:event="conversion">2022-05-02T08:05:25.669249+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/2638/2638-h/2638-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=38396 -->
+    <item href="2650189342224494061_2638-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=3113 Split on div.chapter-->
+    <item href="5699373411446115811_2638-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82427 Split on p-->
+    <item href="5699373411446115811_2638-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82450 Split on p-->
+    <item href="5699373411446115811_2638-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81952 Split on p-->
+    <item href="5699373411446115811_2638-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=76947 Split on h3-->
+    <item href="5699373411446115811_2638-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82649 Split on p-->
+    <item href="5699373411446115811_2638-h-5.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=49715-->
+    <item href="5699373411446115811_2638-h-6.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81921 Split on p-->
+    <item href="5699373411446115811_2638-h-7.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82403 Split on p-->
+    <item href="5699373411446115811_2638-h-8.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81966 Split on p-->
+    <item href="5699373411446115811_2638-h-9.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82588 Split on p-->
+    <item href="5699373411446115811_2638-h-10.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=46084-->
+    <item href="5699373411446115811_2638-h-11.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82211 Split on p-->
+    <item href="5699373411446115811_2638-h-12.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82549 Split on p-->
+    <item href="5699373411446115811_2638-h-13.htm.html" id="item18" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82266 Split on p-->
+    <item href="5699373411446115811_2638-h-14.htm.html" id="item19" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82028 Split on p-->
+    <item href="5699373411446115811_2638-h-15.htm.html" id="item20" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=40880-->
+    <item href="5699373411446115811_2638-h-16.htm.html" id="item21" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82010 Split on p-->
+    <item href="5699373411446115811_2638-h-17.htm.html" id="item22" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82196 Split on p-->
+    <item href="5699373411446115811_2638-h-18.htm.html" id="item23" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82121 Split on p-->
+    <item href="5699373411446115811_2638-h-19.htm.html" id="item24" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82915 Split on p-->
+    <item href="5699373411446115811_2638-h-20.htm.html" id="item25" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81987 Split on p-->
+    <item href="5699373411446115811_2638-h-21.htm.html" id="item26" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=14027-->
+    <item href="5699373411446115811_2638-h-22.htm.html" id="item27" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20430-->
+    <item href="5699373411446115811_2638-h-23.htm.html" id="item28" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+    <itemref idref="item23" linear="yes"/>
+    <itemref idref="item24" linear="yes"/>
+    <itemref idref="item25" linear="yes"/>
+    <itemref idref="item26" linear="yes"/>
+    <itemref idref="item27" linear="yes"/>
+    <itemref idref="item28" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Contents" href="5699373411446115811_2638-h-0.htm.html#pgepubid00002"/>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>
