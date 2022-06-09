@@ -26,6 +26,8 @@ jobs:
           
       - name: commit zip
         run: |
+          pwd
+          ls -la
           cp -r zip/.git .
           rm -rf zip
           git diff --name-only > ../changes
