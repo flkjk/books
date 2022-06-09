@@ -17,7 +17,6 @@ jobs:
           ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
-          sudo mv .github/workflows/update_json.py /usr/local/bin/update_json.py
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md .git
           cd ..
@@ -51,7 +50,7 @@ jobs:
       - name: update book
         run: |
           cd main
-          python update_json.py ../changes $last_commit $commit_time book_information.json
+          python .github/workflows/update_json.py ../changes $last_commit $commit_time book_information.json
           git add book_information.json
           git commit -m "automated: updating book_information.json"
           git push
