@@ -23,7 +23,7 @@ with open(sys.argv[1]) as changes_file:
 
     if len(split) < 3:
       continue
-    if split[2] != "english" or split[2] != "foreign":
+    if split[2] != "english" and split[2] != "foreign":
       continue
 
     language = split[0]
