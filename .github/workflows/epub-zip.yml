@@ -3,8 +3,6 @@ on: push
 jobs:
   epub-zip:
     runs-on: ubuntu-latest
-    env:
-      LAST_COMMIT: Monday
     steps:
       # Checkout the branch
       - name: checkout main
