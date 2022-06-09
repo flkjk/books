@@ -33,6 +33,9 @@ with open(sys.argv[1]) as changes_file:
       if book_object:
         book_object["last_commit"] = sys.argv[2]
         book_object["last_commit_time"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
+        if "first_commit" not in book_object
+          book_object["first_commit"] = sys.argv[2]
+          book_object["first_commit_time"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
 
 with open(sys.argv[4], "w") as jsonFile:
     json.dump(info, jsonFile, indent=2)
