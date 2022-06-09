@@ -17,7 +17,7 @@ jobs:
           ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
-          find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
+          find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.zip * && cd .. && mv foreign.zip foreign.epub && rm -rf foreign && cd english && deterministic-zip -r ../english.zip * && cd .. && mv english.zip english.epub && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md .git
           cd ..
           
@@ -29,8 +29,9 @@ jobs:
           
       - name: commit zip
         run: |
-          cp -r main/* zip/
           cd zip
+          rm -rf !(".git")
+          cp -r ../main/* .
           git diff --name-only > ../changes
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
