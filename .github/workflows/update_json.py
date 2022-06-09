@@ -19,7 +19,7 @@ with open(sys.argv[1]) as changes_file:
     split = line.strip().split("/")
     print(split)
 
-    if len(split) < 3:
+    if len(split) != 3:
       continue
     if split[2] != "english.epub" and split[2] != "foreign.epub":
       continue
