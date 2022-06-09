@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="FB2BookID" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">
-    <dc:title>Том 6. Идиот ссвпт-6</dc:title>
+    <dc:title>Том 6. Идиот ссвпт-6</dc:title>asfd
     <dc:title>Собрание сочинений в пятнадцати томах</dc:title>
     <dc:language xsi:type="dcterms:RFC3066">ru</dc:language>
     <dc:identifier id="FB2BookID" xmlns:opf="http://www.idpf.org/2007/opf" opf:scheme="URI">urn:uuid:57c38369-522a-49ab-9ff6-c7b6f66553ad</dc:identifier>
