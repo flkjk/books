@@ -51,7 +51,9 @@ jobs:
         run: |
           cd main
           python .github/workflows/update_json.py ../changes $LAST_COMMIT $COMMIT_TIME book_information.json
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
           git add book_information.json
-          git commit -m "automated: updating book_information.json"
+          git commit -m "automated: updating book_information.json for commit $LAST_COMMIT"
           git push
           
