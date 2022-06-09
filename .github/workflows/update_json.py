@@ -17,6 +17,7 @@ with open(sys.argv[4], "r") as jsonFile:
 with open(sys.argv[1]) as changes_file:
   for line in changes_file:
     split = line.split("/")
+    print(split)
 
     if len(split) < 3:
       continue
