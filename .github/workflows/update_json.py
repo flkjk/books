@@ -18,8 +18,8 @@ with open(sys.argv[4], "r") as jsonFile:
 
 with open(sys.argv[1]) as changes_file:
   for line in changes_file:
-    print(line)
     split = line.split("/")
+    print(split)
 
     if len(split) < 3:
       continue
@@ -28,14 +28,16 @@ with open(sys.argv[1]) as changes_file:
 
     language = split[0]
     book = split[1]
-    english = split[2] == "english"
     
-    language_object = next((x for x in info if x.language == language), None)
+    print(info)
+    language_object = next((x for x in info if x["language"] == language), None)
+    print(language_object)
     if language_object:
-      book_object = next((x for x in language_object.books if x.filename == book), None)
+      book_object = next((x for x in language_object["books"] if x["filename"] == book), None)
+      print(book_object)
       if book_object:
-        book_object["last_updated_commit"] = sys.argv[2]
-        book_object["last_updated"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
+        book_object["last_commit"] = sys.argv[2]
+        book_object["last_commit_time"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
         print(book_object)
 
 with open(sys.argv[4], "w") as jsonFile:
