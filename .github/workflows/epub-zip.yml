@@ -14,7 +14,9 @@ jobs:
           ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
-          git switch zip
+          git checkout --detach
+          git reset --soft zip
+          git checkout zip
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md
       - name: setup git config
