@@ -22,14 +22,12 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: zip
-          path: main/zip
+          path: zip
           
       - name: commit zip
         run: |
-          pwd
-          ls -la
-          cp -r zip/.git .
-          rm -rf zip
+          cp -r zip/.git main/.git
+          cd main
           git diff --name-only > ../changes
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
@@ -38,17 +36,15 @@ jobs:
           git push --force --set-upstream origin zip
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "COMMIT_TIME=$(git show -s --format=%ct $LAST_COMMIT)" >> $GITHUB_ENV
-          cd ..
-          rm -rf main
           
       - name: checkout main again
         uses: actions/checkout@v2
         with:
-          path: main
+          path: main_again
           
       - name: update book
         run: |
-          cd main
+          cd main_again
           python .github/workflows/update_json.py ../changes $LAST_COMMIT $COMMIT_TIME book_information.json
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
