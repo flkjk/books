@@ -29,6 +29,7 @@ jobs:
           
       - name: commit
         run: |
+          python -v
           cp -r main/* zip/
           cd zip
           git config user.name "GitHub Actions Bot"
