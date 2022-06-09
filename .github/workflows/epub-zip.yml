@@ -12,8 +12,8 @@ jobs:
         run: |
           pwd
           ls -la
-          chmod +x /home/runner/work/books/books/.github/deterministic-zip
-          sudo mv /home/runner/work/books/books/.github/deterministic-zip /usr/local/bin/deterministic-zip
+          chmod +x .github/workflows/deterministic-zip
+          sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
           git switch zip
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md
