@@ -22,7 +22,9 @@ jobs:
           git config user.email "<>"
       - name: commit
         run: |
-          git symbolic-ref HEAD refs/heads/zip
+          git checkout --detach
+          git reset --soft zip
+          git checkout zip
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
