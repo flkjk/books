@@ -17,6 +17,7 @@ jobs:
           ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
+          sudo mv .github/workflows/update_json.py /usr/local/bin/update_json.py
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
           rm -rf .github book_information.json LICENSE README.md .git
           cd ..
@@ -27,13 +28,31 @@ jobs:
           ref: zip
           path: zip
           
-      - name: commit
+      - name: commit zip
         run: |
-          python -v
           cp -r main/* zip/
           cd zip
+          git diff --name-only > ../changes
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
+          last_commit=$(git rev-parse HEAD)
+          commit_time=$(git show -s --format=%ct $last_commit)
+          cd ..
+          rm -rf main
+          
+      - name: checkout main again
+        uses: actions/checkout@v2
+        with:
+          path: main
+          
+      - name: update book
+        run: |
+          cd main
+          python update_json.py ../changes $last_commit $commit_time book_information.json
+          git add book_information.json
+          git commit -m "automated: updating book_information.json"
+          git push
+          
