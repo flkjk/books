@@ -38,4 +38,4 @@ with open(sys.argv[1]) as changes_file:
         print(book_object)
 
 with open(sys.argv[4], "w") as jsonFile:
-    json.dump(info, jsonFile)
+    json.dump(info, jsonFile, indent=2)
