@@ -29,7 +29,7 @@ jobs:
           
       - name: commit
         run: |
-          mv -v main/* zip/
+          cp -r main/* zip/
           cd zip
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
