@@ -1,0 +1,41 @@
+import sys
+import json
+from datetime import datetime, timezone
+
+def isoformat_js(dt: datetime):
+  return (
+    dt.astimezone(timezone.utc)
+      .isoformat(timespec="milliseconds")
+      .replace("+00:00", "Z")
+  )
+
+# python update_json.py [changes file] [sha hash of commit] [commit time as unix timestamp] [book_information.json]
+
+print(sys.argv)
+
+with open(sys.argv[4], "r") as jsonFile:
+    info = json.load(jsonFile)
+
+with open(sys.argv[1]) as changes_file:
+  for line in changes_file:
+    split = line.split("/")
+
+    if len(split) < 3:
+      continue
+    if split[2] != "english" or split[2] != "foreign":
+      continue
+
+    language = split[0]
+    book = split[1]
+    english = split[2] == "english"
+    
+    language_object = next((x for x in info if x.language == language), None)
+    if language_object:
+      book_object = next((x for x in language_object.books if x.filename == book), None)
+      if book_object:
+        book_object["last_updated_commit"] = sys.argv[2]
+        book_object["last_updated"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
+        print(book_object)
+
+with open(sys.argv[4], "w") as jsonFile:
+    json.dump(info, jsonFile)
