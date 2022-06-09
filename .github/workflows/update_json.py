@@ -11,15 +11,12 @@ def isoformat_js(dt: datetime):
 
 # python update_json.py [changes file] [sha hash of commit] [commit time as unix timestamp] [book_information.json]
 
-print(sys.argv)
-
 with open(sys.argv[4], "r") as jsonFile:
     info = json.load(jsonFile)
 
 with open(sys.argv[1]) as changes_file:
   for line in changes_file:
     split = line.split("/")
-    print(split)
 
     if len(split) < 3:
       continue
@@ -29,16 +26,12 @@ with open(sys.argv[1]) as changes_file:
     language = split[0]
     book = split[1]
     
-    print(info)
     language_object = next((x for x in info if x["language"] == language), None)
-    print(language_object)
     if language_object:
       book_object = next((x for x in language_object["books"] if x["filename"] == book), None)
-      print(book_object)
       if book_object:
         book_object["last_commit"] = sys.argv[2]
         book_object["last_commit_time"] = isoformat_js(datetime.fromtimestamp(int(sys.argv[3])))
-        print(book_object)
 
 with open(sys.argv[4], "w") as jsonFile:
     json.dump(info, jsonFile, indent=2)
