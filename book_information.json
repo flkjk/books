@@ -165,7 +165,9 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "traumlibrary",
         "verified": false,
-        "description": "Notes from Underground is a fictional collection of memoirs written by a civil servant living alone in St. Petersburg. The man is never named and is generally referred to as the Underground Man. The \u201cunderground\u201d in the book refers to the narrator\u2019s isolation, which he described in chapter 11 as \u201clistening through a crack under the floor.\u201d \u2014 Standard Ebooks"
+        "description": "Notes from Underground is a fictional collection of memoirs written by a civil servant living alone in St. Petersburg. The man is never named and is generally referred to as the Underground Man. The \u201cunderground\u201d in the book refers to the narrator\u2019s isolation, which he described in chapter 11 as \u201clistening through a crack under the floor.\u201d \u2014 Standard Ebooks",
+        "last_commit": "260ca618bc95baa5b27be3f53236b877a3156217",
+        "last_commit_time": "2022-06-09T22:49:54.000Z"
       },
       {
         "filename": "short_fiction",
