@@ -3,6 +3,8 @@ on: push
 jobs:
   epub-zip:
     runs-on: ubuntu-latest
+    env:
+      LAST_COMMIT: Monday
     steps:
       # Checkout the branch
       - name: checkout main
@@ -37,8 +39,8 @@ jobs:
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
-          last_commit=$(git rev-parse HEAD)
-          commit_time=$(git show -s --format=%ct $last_commit)
+          echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
+          echo "COMMIT_TIME=$(git show -s --format=%ct $LAST_COMMIT)" >> $GITHUB_ENV
           cd ..
           rm -rf main
           
@@ -50,7 +52,7 @@ jobs:
       - name: update book
         run: |
           cd main
-          python .github/workflows/update_json.py ../changes $last_commit $commit_time book_information.json
+          python .github/workflows/update_json.py ../changes $LAST_COMMIT $COMMIT_TIME book_information.json
           git add book_information.json
           git commit -m "automated: updating book_information.json"
           git push
