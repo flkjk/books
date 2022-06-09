@@ -5,26 +5,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout the branch
-      - name: checkout
+      - name: checkout main
         uses: actions/checkout@v2
+        with:
+          path: main
 
       - name: zip
         run: |
+          cd main
           pwd
           ls -la
           chmod +x .github/workflows/deterministic-zip
           sudo mv .github/workflows/deterministic-zip /usr/local/bin/deterministic-zip
           find . -maxdepth 2 -mindepth 2 -not -path '*/.*' -type d -exec bash -c "cd \"{}\" && cd foreign && deterministic-zip -r ../foreign.epub * && cd .. && rm -rf foreign && cd english && deterministic-zip -r ../english.epub * && cd .. && rm -rf english" \;
-          rm -rf .github book_information.json LICENSE README.md
+          rm -rf .github book_information.json LICENSE README.md .git
+          cd ..
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
+          
+      - name: checkout zip
+        uses: actions/checkout@v2
+        with:
+          ref: zip
+          path: zip
+          
       - name: commit
         run: |
-          git checkout --detach
-          git reset --soft refs/heads/zip
-          git checkout refs/heads/zip
+          mv -v main/* zip/
+          cd zip
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
