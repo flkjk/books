@@ -23,7 +23,6 @@ jobs:
       - name: commit
         run: |
           git symbolic-ref HEAD refs/heads/zip
-          git reset refs/heads/zip
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
