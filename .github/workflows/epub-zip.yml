@@ -23,8 +23,8 @@ jobs:
       - name: commit
         run: |
           git checkout --detach
-          git reset --soft origin/zip
-          git checkout origin/zip
+          git reset --soft refs/remotes/zip
+          git checkout refs/remotes/zip
           git add --all
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
