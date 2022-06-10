@@ -28,14 +28,18 @@ jobs:
         run: |
           cp -r zip/.git main/.git
           cd main
-          git config user.name "GitHub Actions Bot"
+          git config user.name $USERNAME
           git config user.email "<>"
           git add --all
           { git diff --name-only ; git diff --name-only --staged ; } | sort | uniq > ../changes
           git commit -m "automated: zipping into .epub"
           git push --force
+          git push https://$USERNAME:$REPO_KEY@github.com/myorg/documentation.git --force
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "COMMIT_TIME=$(git show -s --format=%ct $LAST_COMMIT)" >> $GITHUB_ENV
+        env:
+          REPO_KEY: ${{secrets.PUSH_TOKEN}}
+          USERNAME: "GitHub Actions Bot"
           
       - name: checkout main again
         uses: actions/checkout@v2
