@@ -28,10 +28,10 @@ jobs:
         run: |
           cp -r zip/.git main/.git
           cd main
-          git diff --name-only > ../changes
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git add --all
+          { git diff --name-only ; git diff --name-only --staged ; } | sort | uniq > ../changes
           git commit -m "automated: zipping into .epub"
           git push --force --set-upstream origin zip
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
