@@ -33,7 +33,7 @@ jobs:
           git add --all
           { git diff --name-only ; git diff --name-only --staged ; } | sort | uniq > ../changes
           git commit -m "automated: zipping into .epub"
-          git push --force --set-upstream origin zip
+          git push --force
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "COMMIT_TIME=$(git show -s --format=%ct $LAST_COMMIT)" >> $GITHUB_ENV
           
