@@ -53,6 +53,8 @@ jobs:
           git push
           
       - name: send new json
+        env:
+          SET_BOOK_INFO_AUTH: ${{ secrets.SET_BOOK_INFO_AUTH }}
         run: |
-          curl -X POST -H "Content-Type: application/json" -d @main_again/book_information.json https://a9f4-72-74-61-250.ngrok.io/langduet/us-central1/setBookInfo
+          curl -X POST -u $SET_BOOK_INFO_AUTH -H "Content-Type: application/json" -d @main_again/book_information.json https://us-central1-langduet.cloudfunctions.net/setBookInfo
           
