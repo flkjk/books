@@ -28,7 +28,7 @@ jobs:
         run: |
           cp -r zip/.git main/.git
           cd main
-          git config user.name $USERNAME
+          git config user.name "$USERNAME"
           git config user.email "<>"
           git add --all
           { git diff --name-only ; git diff --name-only --staged ; } | sort | uniq > ../changes
