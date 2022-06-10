@@ -40,7 +40,7 @@ jobs:
           echo "COMMIT_TIME=$(git show -s --format=%ct $LAST_COMMIT)" >> $GITHUB_ENV
         env:
           REPO_KEY: ${{secrets.PUSH_TOKEN}}
-          USERNAME: "GitHub Actions Bot"
+          USERNAME: github-actions[bot]
           
       - name: checkout main again
         uses: actions/checkout@v2
