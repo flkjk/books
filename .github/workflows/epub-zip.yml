@@ -51,5 +51,5 @@ jobs:
           git add book_information.json
           git commit -m "automated: updating book_information.json for commit $LAST_COMMIT"
           git push
-          curl -X POST -H "Content-Type: application/json" -d @book_information.json http://localhost:5001/langduet/us-central1/setBookInfo
+          curl -X POST -H "Content-Type: application/json" -d @book_information.json https://a9f4-72-74-61-250.ngrok.io/langduet/us-central1/setBookInfo
           
