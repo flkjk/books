@@ -21,7 +21,7 @@ jobs:
       - name: checkout zip
         uses: actions/checkout@v2
         with:
-          ref: zip
+          repository: "flkjk/zipped-books"
           path: zip
           
       - name: commit zip
