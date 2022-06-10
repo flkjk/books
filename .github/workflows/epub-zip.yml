@@ -23,6 +23,7 @@ jobs:
         with:
           repository: "flkjk/zipped-books"
           path: zip
+          token: ${{secrets.PUSH_TOKEN}}
           
       - name: commit zip
         run: |
